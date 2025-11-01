@@ -1,0 +1,1262 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"0 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"3 - 0",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Akron",
+        "Score":"2 - 2",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"2 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Akron",
+        "Score":"0 - 2",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"3 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 2",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"0 - 4",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"0 - 0",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"0 - 3",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Baltika",
+        "Score":"2 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"1 - 0",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Baltika",
+        "Score":"0 - 0",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Baltika",
+        "Score":"0 - 0",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Akron",
+        "Score":"0 - 2",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"0 - 2",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Baltika",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"1 - 1",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Baltika",
+        "Score":"3 - 2",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"0 - 3",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"1 - 1",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"1 - 0",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"3 - 0",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"3 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"1 - 0",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"1 - 3",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 0",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"1 - 1",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"3 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"1 - 3",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"5 - 1",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"1 - 1",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"2 - 1",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"0 - 0",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"2 - 1",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"2 - 2",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"3 - 5",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"2 - 3",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"1 - 3",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"2 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 0",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"3 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"1 - 3",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"1 - 1",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"1 - 0",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"1 - 0",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"1 - 1",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 1",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"0 - 2",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Baltika",
+        "Score":"2 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"0 - 0",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"1 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 0",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"4 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"2 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 0",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"1 - 1",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"1 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"0 - 0",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"0 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"2 - 1",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"3 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"1 - 2",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"3 - 1",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"3 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"2 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"2 - 3",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"0 - 3",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"2 - 4",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"0 - 3",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"2 - 1",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"0 - 0",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"1 - 3",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"2 - 0",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"2 - 1",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"0 - 2",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"5 - 1",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"1 - 1",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"2 - 1",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"0 - 4",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"3 - 0",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"1 - 0",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"1 - 1",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"5 - 2",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"1 - 3",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"3 - 1",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 2",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Baltika",
+        "Score":"3 - 2",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"1 - 1",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"0 - 0",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"1 - 0",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"0 - 2",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"2 - 0",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Rostov",
+        "Score":"0 - 0",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"0 - 2",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"2 - 1",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"1 - 1",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"0 - 6",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"5 - 1",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"1 - 0",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"1 - 2",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"0 - 3",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"1 - 0",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"1 - 1",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"2 - 0",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"2 - 3",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"2 - 1",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"2 - 0",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"2 - 2",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"0 - 6",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"3 - 1",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"1 - 1",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 4",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Krylya Samara",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"3 - 0",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"3 - 5",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"1 - 0",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"2 - 2",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"3 - 3",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Baltika",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"4 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"2 - 3",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"1 - 2",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"3 - 0",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 1",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"1 - 1",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Rostov",
+        "Score":"0 - 0",
+        "AwayTeam":"Krasnodar"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Baltika",
+        "Score":"0 - 0",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 0",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 1",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"3 - 3",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"1 - 0",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 4",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"1 - 0",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"2 - 1",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"1 - 0",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"0 - 3",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"2 - 0",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"1 - 0",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Akron",
+        "Score":"2 - 2",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"1 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"0 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"1 - 0",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"5 - 1",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"2 - 1",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"2 - 2",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"0 - 2",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"1 - 0",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"1 - 1",
+        "AwayTeam":"Rostov"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"3 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"3 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"2 - 1",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"2 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"2 - 1",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"0 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"2 - 2",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Lokomotiv M",
+        "Score":"4 - 2",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Spartak M"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"0 - 3",
+        "AwayTeam":"Baltika"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"1 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"2 - 4",
+        "AwayTeam":"FK SOCHI"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Dinamo Moscow",
+        "Score":"2 - 2",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"2 - 0",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"3 - 0",
+        "AwayTeam":"Akron"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"FK Nizjni Novgorod",
+        "Score":"1 - 2",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"1 - 1",
+        "AwayTeam":"Lokomotiv M"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Rostov",
+        "Score":"1 - 1",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Gazovik Orenburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"3 - 1",
+        "AwayTeam":"Krylya Samara"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"1 - 0",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Dynamo Makhachkala",
+        "Score":"1 - 0",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"CSKA Moscow",
+        "Score":"2 - 1",
+        "AwayTeam":"Terek Grozny"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"0 - 2",
+        "AwayTeam":"Rubin Kazan"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"2 - 1",
+        "AwayTeam":"Dinamo Moscow"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"FK SOCHI",
+        "Score":"0 - 3",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Akron",
+        "Score":"1 - 1",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"5 - 2",
+        "AwayTeam":"Gazovik Orenburg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Krasnodar",
+        "Score":"0 - 2",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Baltika",
+        "Score":"0 - 0",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Nizjni Novgorod"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"4 - 0",
+        "AwayTeam":"Dynamo Makhachkala"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Spartak M",
+        "Score":"2 - 2",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Terek Grozny",
+        "Score":"1 - 0",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"1 - 1",
+        "AwayTeam":"CSKA Moscow"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Rubin Kazan",
+        "Score":"2 - 2",
+        "AwayTeam":"Zenit St Petersburg"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Zenit St Petersburg",
+        "Score":"2 - 1",
+        "AwayTeam":"Rostov"
+    }
+]

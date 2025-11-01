@@ -1,0 +1,986 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"2 - 0",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"AVS",
+        "Score":"1 - 3",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"3 - 0",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"AVS",
+        "Score":"0 - 3",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Estoril",
+        "Score":"3 - 1",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"AVS",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"2 - 2",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"AVS",
+        "Score":"0 - 2",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Arouca",
+        "Score":"3 - 1",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"2 - 0",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Alverca",
+        "Score":"0 - 4",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"AVS",
+        "Score":"1 - 3",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Alverca",
+        "Score":"2 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"2 - 1",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Alverca",
+        "Score":"1 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Alverca",
+        "Score":"1 - 2",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"2 - 2",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Alverca",
+        "Score":"0 - 3",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"2 - 1",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Benfica",
+        "Score":"5 - 0",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Arouca",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Arouca",
+        "Score":"0 - 4",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Nacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Arouca",
+        "Score":"0 - 2",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"1 - 1",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Arouca",
+        "Score":"3 - 3",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"6 - 0",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Arouca",
+        "Score":"3 - 1",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Benfica",
+        "Score":"5 - 0",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Porto",
+        "Score":"0 - 0",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Benfica",
+        "Score":"2 - 1",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Benfica",
+        "Score":"1 - 1",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"AVS",
+        "Score":"0 - 3",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Benfica",
+        "Score":"1 - 1",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Alverca",
+        "Score":"1 - 2",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Benfica",
+        "Score":"3 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"0 - 1",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"2 - 0",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"2 - 1",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"1 - 2",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"2 - 1",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Benfica",
+        "Score":"1 - 1",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Estoril",
+        "Score":"0 - 1",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"0 - 0",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"0 - 1",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"3 - 0",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"4 - 0",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"2 - 2",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"2 - 1",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Arouca",
+        "Score":"0 - 2",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"0 - 2",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Porto",
+        "Score":"4 - 0",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"AVS",
+        "Score":"0 - 2",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"0 - 2",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Estoril",
+        "Score":"1 - 1",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"2 - 2",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Estoril",
+        "Score":"0 - 1",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"2 - 0",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Estoril",
+        "Score":"3 - 1",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Estoril",
+        "Score":"0 - 1",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Tondela",
+        "Score":"2 - 2",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"3 - 2",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Estoril",
+        "Score":"1 - 1",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"1 - 2",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"2 - 0",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"3 - 0",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Tondela",
+        "Score":"0 - 0",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"0 - 2",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"0 - 0",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"2 - 2",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"0 - 1",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Estoril",
+        "Score":"1 - 1",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"2 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Arouca",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"0 - 0",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"1 - 2",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"AVS",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"0 - 0",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Tondela",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"3 - 0",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Alverca",
+        "Score":"0 - 4",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"2 - 0",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Benfica",
+        "Score":"2 - 1",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"2 - 0",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"0 - 1",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"2 - 0",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"0 - 0",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"0 - 2",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Nacional",
+        "Score":"0 - 2",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"2 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"2 - 1",
+        "AwayTeam":"CD Santa Clara"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Alverca",
+        "Score":"2 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"1 - 1",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"0 - 2",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"1 - 1",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"2 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"3 - 2",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Porto",
+        "Score":"3 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"1 - 2",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Nacional",
+        "Score":"3 - 2",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"2 - 1",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"3 - 0",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"3 - 1",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"2 - 0",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"2 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"0 - 1",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"2 - 1",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Estoril",
+        "Score":"1 - 1",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Nacional",
+        "Score":"3 - 2",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"0 - 1",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Nacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Porto",
+        "Score":"1 - 0",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"0 - 2",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Nacional",
+        "Score":"1 - 4",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"1 - 1",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Nacional",
+        "Score":"0 - 2",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"1 - 2",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Porto",
+        "Score":"0 - 0",
+        "AwayTeam":"Benfica"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Arouca",
+        "Score":"0 - 4",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"0 - 3",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Porto",
+        "Score":"1 - 0",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"1 - 2",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Porto",
+        "Score":"4 - 0",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Gil Vicente",
+        "Score":"0 - 2",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Porto",
+        "Score":"3 - 0",
+        "AwayTeam":"Guimaraes"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Estrela Amadora",
+        "Score":"1 - 2",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"3 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"0 - 0",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Benfica",
+        "Score":"1 - 1",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"0 - 3",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Moreirense",
+        "Score":"3 - 1",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"2 - 2",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Arouca",
+        "Score":"3 - 3",
+        "AwayTeam":"Rio Ave"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"1 - 1",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"4 - 0",
+        "AwayTeam":"Casa Pia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"1 - 1",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"0 - 1",
+        "AwayTeam":"Nacional"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Guimaraes",
+        "Score":"1 - 1",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"0 - 1",
+        "AwayTeam":"Gil Vicente"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"2 - 2",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"2 - 2",
+        "AwayTeam":"AVS"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Alverca",
+        "Score":"0 - 3",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"3 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"2 - 0",
+        "AwayTeam":"Alverca"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Tondela",
+        "Score":"0 - 3",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"1 - 1",
+        "AwayTeam":"Sp Braga"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Estoril",
+        "Score":"0 - 1",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"3 - 0",
+        "AwayTeam":"Moreirense"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Famalicão",
+        "Score":"1 - 2",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"1 - 2",
+        "AwayTeam":"Porto"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Nacional",
+        "Score":"1 - 4",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Sp Lisbon",
+        "Score":"6 - 0",
+        "AwayTeam":"Arouca"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Casa Pia",
+        "Score":"0 - 2",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Tondela",
+        "Score":"0 - 3",
+        "AwayTeam":"Sp Lisbon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Rio Ave",
+        "Score":"3 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"CD Santa Clara",
+        "Score":"1 - 2",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Tondela",
+        "Score":"0 - 0",
+        "AwayTeam":"Estrela Amadora"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Alverca",
+        "Score":"1 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Tondela",
+        "Score":"2 - 2",
+        "AwayTeam":"Estoril"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Benfica",
+        "Score":"3 - 0",
+        "AwayTeam":"Tondela"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Tondela",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Famalicão"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sp Braga",
+        "Score":"3 - 0",
+        "AwayTeam":"Tondela"
+    }
+]

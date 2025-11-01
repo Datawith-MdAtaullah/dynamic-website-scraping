@@ -1,0 +1,4826 @@
+[
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"2 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 3",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"3 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"3 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"2 - 3",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 3",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 2",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"6 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"04-04-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 2",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"26-03-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 2",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"3 - 2",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"08-10-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"0 - 2",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"14-08-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"20-06-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"16-06-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 3",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"07-06-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"05-06-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 2",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"30-04-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"3 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"3 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"24-03-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 4",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"4 - 3",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"10-09-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"4 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 3",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 3",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"1 - 4",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"4 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"19-03-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"14-03-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 4",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 3",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"5 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 3",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 3",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"06-06-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"02-06-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 3",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"30-04-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"4 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"20-03-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"4 - 3",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"05-03-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 5",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"10-02-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"4 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 2",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"14-10-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"5 - 2",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"4 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"05-09-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"4 - 2",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"4 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 4",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"3 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"19-02-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 2",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 2",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 3",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"4 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"3 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 3",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"07-06-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"04-06-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"1 - 3",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Envigado",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 4",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"24-03-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"20-03-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"4 - 3",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 2",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 4",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"14-08-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"3 - 3",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 3",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 3",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"3 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"24-03-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"3 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"4 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 3",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"0 - 2",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"11-09-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"05-09-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"0 - 1",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"07-08-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"30-04-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 3",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"26-02-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"4 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 5",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"3 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 2",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"14-08-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"3 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"3 - 3",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"14-03-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"20-02-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"10-02-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 2",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"3 - 1",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 2",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"0 - 1",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 4",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 2",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 2",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Envigado",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Envigado",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"04-04-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 2",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"24-03-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 7",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"25-02-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 3",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"14-10-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"3 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"08-09-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 2",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"4 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"4 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"26-03-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"05-03-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 5",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"5 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 5",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"08-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 3",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 3",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 4",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"20-06-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"11-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"04-06-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"3 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"3 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 3",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"16-06-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"11-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"05-06-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 3",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"3 - 3",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"26-03-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"25-02-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"19-02-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"2 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"3 - 2",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"07-10-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"3 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 4",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"08-09-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"1 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"3 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"3 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"1 - 4",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"4 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"3 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"3 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"1 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 3",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 3",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 3",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"3 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"0 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 3",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"29-07-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 2",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"1 - 3",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"07-04-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 2",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"24-03-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"1 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"3 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"2 - 2",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"04-02-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"4 - 3",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"3 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"08-10-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"3 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"3 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"11-09-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"3 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"21-08-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 2",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"3 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"3 - 3",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"29-07-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 1",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"1 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"20-06-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 2",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"09-06-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"0 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"06-06-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"4 - 2",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"3 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"3 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"20-02-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 3",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 5",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"07-10-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"5 - 2",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"10-09-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"02-09-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 2",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 2",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 3",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"16-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 2",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"09-06-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"0 - 0",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"05-06-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"02-06-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 2",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"3 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"3 - 0",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"20-02-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"4 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"1 - 5",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"08-10-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 1",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"3 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"4 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 2",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 3",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"1 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Envigado",
+        "Score":"0 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"3 - 3",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"30-04-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"07-04-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 2",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"24-03-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 1",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 1",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 1",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"0 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 3",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"3 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"1 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"0 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"02-09-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 2",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"2 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 1",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"20-06-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"16-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Once Caldas"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"05-06-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"6 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"0 - 2",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"2 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"3 - 2",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"19-03-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 0",
+        "AwayTeam":"Fortaleza CEIF"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Envigado",
+        "Score":"1 - 7",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"América de Cali",
+        "Score":"2 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"0 - 0",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportes Tolima"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Once Caldas",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"3 - 1",
+        "AwayTeam":"Envigado"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Atlético Bucaramanga",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"3 - 2",
+        "AwayTeam":"Rionegro Águilas"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Deportivo Pereira",
+        "Score":"2 - 2",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Nacional"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Santa Fe",
+        "Score":"2 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"06-09-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"3 - 1",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Boyacá Chicó",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"2 - 3",
+        "AwayTeam":"Alianza Petrolera"
+    },
+    {
+        "Date":"21-08-2025",
+        "HomeTeam":"Millonarios",
+        "Score":"1 - 2",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"14-08-2025",
+        "HomeTeam":"Deportivo Cali",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"07-08-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Pasto"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"La Equidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 2",
+        "AwayTeam":"Independiente Medellín"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 0",
+        "AwayTeam":"Llaneros"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Fortaleza CEIF",
+        "Score":"0 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 2",
+        "AwayTeam":"América de Cali"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Deportes Tolima",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Envigado",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Bucaramanga"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Rionegro Águilas",
+        "Score":"1 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Pereira"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Atlético Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 1",
+        "AwayTeam":"Santa Fe"
+    },
+    {
+        "Date":"26-03-2025",
+        "HomeTeam":"Junior FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 1",
+        "AwayTeam":"Boyacá Chicó"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Alianza Petrolera",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Cali"
+    },
+    {
+        "Date":"26-02-2025",
+        "HomeTeam":"Deportivo Pasto",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"20-02-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"1 - 3",
+        "AwayTeam":"Millonarios"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 0",
+        "AwayTeam":"La Equidad"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Independiente Medellín",
+        "Score":"1 - 1",
+        "AwayTeam":"Unión Magdalena"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Unión Magdalena",
+        "Score":"0 - 0",
+        "AwayTeam":"Junior FC"
+    },
+    {
+        "Date":"04-02-2025",
+        "HomeTeam":"Llaneros",
+        "Score":"2 - 0",
+        "AwayTeam":"Unión Magdalena"
+    }
+]

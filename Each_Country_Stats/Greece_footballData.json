@@ -1,0 +1,662 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"0 - 2",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"0 - 2",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"2 - 5",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Atromitos",
+        "Score":"1 - 1",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"1 - 1",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Asteras Tripolis",
+        "Score":"2 - 2",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"1 - 1",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"PAOK",
+        "Score":"1 - 0",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"2 - 0",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"AEK",
+        "Score":"0 - 2",
+        "AwayTeam":"PAOK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"2 - 3",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"AEK",
+        "Score":"1 - 0",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"1 - 1",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"0 - 1",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"AEK",
+        "Score":"1 - 0",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"AEK",
+        "Score":"2 - 0",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"1 - 1",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Aris",
+        "Score":"1 - 1",
+        "AwayTeam":"Panathinaikos"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"OFI",
+        "Score":"3 - 0",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Aris",
+        "Score":"1 - 1",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"0 - 1",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Atromitos",
+        "Score":"1 - 2",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Aris",
+        "Score":"0 - 2",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Aris",
+        "Score":"2 - 0",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"2 - 0",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Asteras Tripolis",
+        "Score":"2 - 2",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"2 - 1",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Asteras Tripolis",
+        "Score":"3 - 3",
+        "AwayTeam":"PAOK"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Volos New Football Club",
+        "Score":"2 - 1",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Asteras Tripolis",
+        "Score":"2 - 2",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"AEK",
+        "Score":"1 - 0",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"2 - 0",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"OFI",
+        "Score":"1 - 3",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Atromitos",
+        "Score":"2 - 2",
+        "AwayTeam":"Levadeiakos"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"1 - 0",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Atromitos",
+        "Score":"1 - 1",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"1 - 1",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Atromitos",
+        "Score":"1 - 2",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"PAOK",
+        "Score":"1 - 0",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"0 - 2",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"1 - 1",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Asteras Tripolis",
+        "Score":"2 - 2",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"2 - 3",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"OFI",
+        "Score":"1 - 3",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"0 - 1",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"3 - 2",
+        "AwayTeam":"Panathinaikos"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"1 - 1",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"3 - 2",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"1 - 1",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Atromitos",
+        "Score":"2 - 2",
+        "AwayTeam":"Levadeiakos"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"6 - 0",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"3 - 2",
+        "AwayTeam":"Levadeiakos"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"4 - 0",
+        "AwayTeam":"OFI"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"0 - 1",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"1 - 1",
+        "AwayTeam":"Levadeiakos"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"3 - 2",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"OFI",
+        "Score":"1 - 3",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"4 - 2",
+        "AwayTeam":"OFI"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"OFI",
+        "Score":"3 - 0",
+        "AwayTeam":"Aris"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"OFI",
+        "Score":"1 - 3",
+        "AwayTeam":"Kifisia"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"4 - 0",
+        "AwayTeam":"OFI"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"OFI",
+        "Score":"1 - 2",
+        "AwayTeam":"PAOK"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"0 - 1",
+        "AwayTeam":"OFI"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"2 - 0",
+        "AwayTeam":"AEK"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"0 - 2",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"PAOK",
+        "Score":"2 - 1",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"3 - 2",
+        "AwayTeam":"Levadeiakos"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"1 - 1",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"5 - 0",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Volos New Football Club",
+        "Score":"0 - 2",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"2 - 0",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"PAOK",
+        "Score":"3 - 0",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"AEK",
+        "Score":"0 - 2",
+        "AwayTeam":"PAOK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"PAOK",
+        "Score":"2 - 1",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Asteras Tripolis",
+        "Score":"3 - 3",
+        "AwayTeam":"PAOK"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"PAOK",
+        "Score":"0 - 0",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"OFI",
+        "Score":"1 - 2",
+        "AwayTeam":"PAOK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"PAOK",
+        "Score":"1 - 0",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"PAOK",
+        "Score":"1 - 0",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"2 - 0",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Aris",
+        "Score":"1 - 1",
+        "AwayTeam":"Panathinaikos"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"1 - 0",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"1 - 2",
+        "AwayTeam":"Panathinaikos"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"1 - 1",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"3 - 2",
+        "AwayTeam":"Panathinaikos"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Panathinaikos",
+        "Score":"1 - 1",
+        "AwayTeam":"Levadeiakos"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Kifisia",
+        "Score":"1 - 1",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"4 - 2",
+        "AwayTeam":"OFI"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Levadeiakos",
+        "Score":"6 - 0",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"1 - 2",
+        "AwayTeam":"Panathinaikos"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"PAOK",
+        "Score":"0 - 0",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"1 - 2",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Aris",
+        "Score":"0 - 2",
+        "AwayTeam":"Panetolikos"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"0 - 2",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"0 - 2",
+        "AwayTeam":"AE Larissa"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Volos New Football Club",
+        "Score":"2 - 1",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"2 - 1",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Aris",
+        "Score":"1 - 1",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"1 - 1",
+        "AwayTeam":"Atromitos"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Olympiacos F.C.",
+        "Score":"5 - 0",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Panserraikos",
+        "Score":"0 - 1",
+        "AwayTeam":"OFI"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"AEK",
+        "Score":"2 - 0",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"PAOK",
+        "Score":"3 - 0",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Volos New Football Club",
+        "Score":"2 - 1",
+        "AwayTeam":"Panserraikos"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"AE Larissa",
+        "Score":"2 - 5",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"AEK",
+        "Score":"1 - 0",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Volos New Football Club",
+        "Score":"2 - 1",
+        "AwayTeam":"Asteras Tripolis"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Panetolikos",
+        "Score":"1 - 2",
+        "AwayTeam":"Volos New Football Club"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Volos New Football Club",
+        "Score":"0 - 2",
+        "AwayTeam":"Olympiacos F.C."
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Aris",
+        "Score":"2 - 0",
+        "AwayTeam":"Volos New Football Club"
+    }
+]

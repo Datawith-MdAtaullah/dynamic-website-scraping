@@ -1,0 +1,5402 @@
+[
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Instituto",
+        "Score":"2 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"4 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Tigre",
+        "Score":"2 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"4 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"4 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"14-03-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 2",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"07-03-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 2",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 3",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"04-02-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"31-01-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 2",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Instituto",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Newells",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"3 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 1",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"08-04-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"3 - 2",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"18-03-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 2",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"0 - 1",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"5 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"05-02-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"0 - 3",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"31-01-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 2",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 3",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Banfield",
+        "Score":"3 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"2 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 3",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 2",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Banfield",
+        "Score":"3 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"4 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"3 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"07-03-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 2",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"25-02-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"11-02-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Banfield",
+        "Score":"3 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"0 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Tigre",
+        "Score":"2 - 2",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 2",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"3 - 1",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 3",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"River Plate",
+        "Score":"3 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 2",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"2 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"11-02-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"3 - 3",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"06-02-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"1 - 3",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 3",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 2",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"3 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"11-09-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 3",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"2 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 3",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"04-04-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"0 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"3 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"2 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"4 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"04-02-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"30-01-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"4 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 2",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"5 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 2",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"0 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Newells",
+        "Score":"2 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"4 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"0 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 1",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"11-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 2",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"3 - 1",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 3",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Huracán",
+        "Score":"3 - 3",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"14-03-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 2",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 2",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 1",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"06-02-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"1 - 3",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"30-01-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 5",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"3 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 2",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"2 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 2",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 2",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"0 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"4 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 2",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"3 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"2 - 3",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"0 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 2",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"2 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 3",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Banfield",
+        "Score":"3 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 2",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 2",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"0 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"21-02-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"3 - 2",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"4 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"11-02-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"3 - 3",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"31-01-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"3 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 2",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"3 - 2",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"0 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"4 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"4 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"2 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"2 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"30-01-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 5",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"0 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"2 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"2 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"3 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Huracán",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"3 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Instituto",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"07-04-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"21-02-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"05-02-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"0 - 3",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 2",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Banfield",
+        "Score":"3 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"15-07-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"4 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"0 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"04-04-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"0 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"River Plate",
+        "Score":"0 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"21-02-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"3 - 2",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"11-02-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 0",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 2",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 1",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 3",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 3",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 2",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"07-08-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 2",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 3",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"2 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"0 - 1",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"3 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 2",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"Instituto",
+        "Score":"3 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"2 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 3",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"River Plate",
+        "Score":"4 - 2",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"07-08-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 2",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"3 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"4 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 1",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 2",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"21-02-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 2",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"3 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"23-01-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 3",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 3",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"0 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Huracán",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Newells",
+        "Score":"2 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 2",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Huracán",
+        "Score":"3 - 3",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Huracán",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 2",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Huracán",
+        "Score":"2 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Huracán",
+        "Score":"2 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 2",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"07-10-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"2 - 2",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 3",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 2",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"3 - 2",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Huracán",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 4",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"11-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"04-02-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"0 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Instituto",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Instituto",
+        "Score":"2 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 4",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 4",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 2",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"3 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Instituto",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"08-04-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"3 - 2",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Lanús",
+        "Score":"4 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 1",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"2 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Instituto",
+        "Score":"2 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"30-01-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"Instituto",
+        "Score":"3 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 2",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"3 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 2",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 2",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 1",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Lanús",
+        "Score":"4 - 1",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"10-02-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"3 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"5 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"3 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Newells",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 2",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 1",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 2",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 2",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Newells",
+        "Score":"2 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"08-04-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 2",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Newells",
+        "Score":"2 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 2",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"2 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 2",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"2 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"27-01-2025",
+        "HomeTeam":"Banfield",
+        "Score":"3 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Newells",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"3 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 2",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 2",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 3",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"River Plate",
+        "Score":"3 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"07-04-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"18-03-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 2",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"21-02-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"1 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"2 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"04-02-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 3",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"07-10-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 3",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"4 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"4 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"21-03-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"3 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 3",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 0",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 0",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"2 - 0",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"30-01-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"4 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 3",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 2",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"River Plate",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"1 - 2",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"River Plate",
+        "Score":"4 - 2",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"River Plate",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 4",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"River Plate",
+        "Score":"3 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"River Plate",
+        "Score":"3 - 0",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"River Plate",
+        "Score":"4 - 1",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 3",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 2",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"River Plate",
+        "Score":"0 - 2",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 2",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"30-01-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"26-01-2025",
+        "HomeTeam":"Platense",
+        "Score":"1 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 1",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"1 - 2",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 3",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 1",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"0 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 1",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"3 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 2",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 2",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"23-01-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 3",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 2",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 1",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"2 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 0",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"07-08-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"River Plate",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 2",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"2 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 1",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 2",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"3 - 2",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Huracán",
+        "Score":"2 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"2 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 0",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 2",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 0",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"0 - 1",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 2",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"11-09-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"River Plate",
+        "Score":"2 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"2 - 1",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 3",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"18-03-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 2",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"07-03-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"3 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 2",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"06-02-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"01-02-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 1",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"River Plate",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 1",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 0",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"3 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 2",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 2",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Instituto",
+        "Score":"1 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 2",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"5 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"06-02-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"1 - 1",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"02-02-2025",
+        "HomeTeam":"Lanús",
+        "Score":"2 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"28-01-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"24-01-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"2 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 2",
+        "AwayTeam":"River Plate"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 2",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 0",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"1 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"3 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Lanús",
+        "Score":"1 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"1 - 2",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 2",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 2",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Platense",
+        "Score":"2 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 1",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"River Plate",
+        "Score":"1 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"2 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Belgrano",
+        "Score":"1 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"21-02-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"13-02-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"0 - 1",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"10-02-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 1",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"2 - 3",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Tigre",
+        "Score":"2 - 2",
+        "AwayTeam":"Barracas Central"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"Newells",
+        "Score":"1 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 1",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"0 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 0",
+        "AwayTeam":"Talleres Córdoba"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Banfield",
+        "Score":"1 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Tigre",
+        "Score":"2 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"15-07-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"2 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"2 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"0 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 0",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"1 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"08-04-2025",
+        "HomeTeam":"Tigre",
+        "Score":"0 - 2",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 2",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"0 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"25-02-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 0",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"1 - 4",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 0",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Huracán",
+        "Score":"2 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"31-01-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"23-01-2025",
+        "HomeTeam":"Tigre",
+        "Score":"3 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"3 - 0",
+        "AwayTeam":"Defensa y Justicia"
+    },
+    {
+        "Date":"10-10-2025",
+        "HomeTeam":"Central Cordoba SdE",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 2",
+        "AwayTeam":"CA Aldosivi"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Banfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"2 - 2",
+        "AwayTeam":"Independiente Rivadavia"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Gimnasia La Plata",
+        "Score":"1 - 3",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Racing Club",
+        "Score":"2 - 3",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Instituto",
+        "Score":"0 - 4",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Argentinos Juniors",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Boca Juniors",
+        "Score":"1 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"15-07-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Estudiantes"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Belgrano"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Barracas Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Newells"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Defensa y Justicia",
+        "Score":"0 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Central Cordoba SdE"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"CA Aldosivi",
+        "Score":"2 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"21-03-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Racing Club"
+    },
+    {
+        "Date":"17-03-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"3 - 1",
+        "AwayTeam":"Banfield"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Independiente Rivadavia",
+        "Score":"2 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Huracán",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"0 - 1",
+        "AwayTeam":"Argentinos Juniors"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Tigre",
+        "Score":"1 - 0",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Unión Santa Fe",
+        "Score":"1 - 1",
+        "AwayTeam":"Boca Juniors"
+    },
+    {
+        "Date":"25-01-2025",
+        "HomeTeam":"Estudiantes",
+        "Score":"3 - 1",
+        "AwayTeam":"Unión Santa Fe"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Sarmiento",
+        "Score":"0 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"1 - 2",
+        "AwayTeam":"Rosario Central"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Deportivo Riestra",
+        "Score":"2 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlético Tucumán"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"San Martín San Juan",
+        "Score":"1 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Huracán",
+        "Score":"0 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"3 - 0",
+        "AwayTeam":"Lanús"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Godoy Cruz",
+        "Score":"0 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"2 - 1",
+        "AwayTeam":"CA Independiente"
+    },
+    {
+        "Date":"07-08-2025",
+        "HomeTeam":"San Lorenzo",
+        "Score":"1 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 0",
+        "AwayTeam":"Instituto"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Platense",
+        "Score":"0 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"15-07-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"2 - 1",
+        "AwayTeam":"Tigre"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"River Plate",
+        "Score":"4 - 1",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimnasia La Plata"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Talleres Córdoba",
+        "Score":"0 - 1",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Sarmiento"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Rosario Central",
+        "Score":"2 - 1",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Riestra"
+    },
+    {
+        "Date":"18-03-2025",
+        "HomeTeam":"Atlético Tucumán",
+        "Score":"1 - 2",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"07-03-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"1 - 0",
+        "AwayTeam":"San Martín San Juan"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 2",
+        "AwayTeam":"Huracán"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Lanús",
+        "Score":"0 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 2",
+        "AwayTeam":"Godoy Cruz"
+    },
+    {
+        "Date":"12-02-2025",
+        "HomeTeam":"CA Independiente",
+        "Score":"3 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 0",
+        "AwayTeam":"San Lorenzo"
+    },
+    {
+        "Date":"03-02-2025",
+        "HomeTeam":"Instituto",
+        "Score":"2 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    },
+    {
+        "Date":"29-01-2025",
+        "HomeTeam":"Vélez Sarsfield",
+        "Score":"0 - 1",
+        "AwayTeam":"Platense"
+    },
+    {
+        "Date":"23-01-2025",
+        "HomeTeam":"Tigre",
+        "Score":"3 - 0",
+        "AwayTeam":"Vélez Sarsfield"
+    }
+]

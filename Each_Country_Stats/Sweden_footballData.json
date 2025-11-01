@@ -1,0 +1,2690 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 2",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 3",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"AIK",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"3 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"2 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 0",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"AIK",
+        "Score":"3 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"2 - 0",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"AIK",
+        "Score":"3 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"3 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"22-05-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"0 - 0",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"3 - 3",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 2",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"AIK",
+        "Score":"4 - 3",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 2",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"1 - 3",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"2 - 0",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"4 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 2",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 1",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 5",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"0 - 2",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 2",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 6",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"4 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"0 - 2",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"2 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"3 - 3",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"2 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 2",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 1",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"3 - 4",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"2 - 3",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"0 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Öster",
+        "Score":"2 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"2 - 0",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 2",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"1 - 3",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"0 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"3 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"2 - 4",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"6 - 4",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"2 - 3",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"3 - 2",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"2 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"07-07-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 3",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"1 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 3",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 2",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"GAIS",
+        "Score":"1 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"3 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"0 - 3",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"2 - 0",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 3",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 1",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"3 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"3 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 0",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"AIK",
+        "Score":"3 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"5 - 1",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 3",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 2",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"1 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 4",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"4 - 1",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"3 - 4",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 5",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"6 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"GAIS",
+        "Score":"3 - 2",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"8 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"0 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"3 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 4",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 6",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"5 - 1",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"0 - 0",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"0 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"0 - 1",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"4 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"5 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"3 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"2 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 2",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"0 - 2",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"0 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"0 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 4",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 3",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 0",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 3",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 0",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"07-04-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"2 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 2",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"GAIS",
+        "Score":"3 - 2",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"AIK",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"3 - 0",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 1",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 2",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 1",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"2 - 2",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"GAIS",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"GAIS",
+        "Score":"3 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"GAIS",
+        "Score":"1 - 1",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 0",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"GAIS",
+        "Score":"1 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"0 - 0",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Öster",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 0",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 2",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 4",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"GAIS",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"4 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"2 - 0",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 4",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"4 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 5",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 0",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"4 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"3 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"4 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"3 - 1",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 2",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"2 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"3 - 2",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"GAIS",
+        "Score":"3 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"0 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"22-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"3 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 1",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"3 - 1",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"4 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"0 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 2",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"0 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 2",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"0 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"2 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 1",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"3 - 0",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"0 - 1",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"3 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"AIK",
+        "Score":"3 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"1 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"0 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 2",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"2 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"2 - 3",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"0 - 1",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"4 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"2 - 0",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"3 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 4",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 2",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"2 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 2",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"6 - 4",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 0",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"3 - 1",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"07-07-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 3",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"1 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 2",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"1 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 2",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 3",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"2 - 3",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 0",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"AIK",
+        "Score":"4 - 3",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"4 - 3",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"4 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"1 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"5 - 1",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"8 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 3",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"3 - 0",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"3 - 1",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"2 - 4",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"0 - 1",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"3 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Öster",
+        "Score":"2 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"3 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"GAIS",
+        "Score":"2 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 2",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"3 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"2 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 1",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"4 - 3",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"0 - 3",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"0 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"0 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"5 - 1",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"0 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 1",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"0 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"0 - 4",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"2 - 3",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"22-05-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"0 - 0",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"2 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 4",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 2",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"2 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"2 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"07-04-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"2 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"0 - 1",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 1",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"0 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"0 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"0 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"GAIS",
+        "Score":"0 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"1 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 1",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 0",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"1 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"22-05-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 0",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 0",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"4 - 1",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"3 - 1",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"0 - 3",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 2",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"6 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"AIK",
+        "Score":"2 - 3",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"3 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 2",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Öster",
+        "Score":"4 - 3",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 5",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"3 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"2 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"2 - 2",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"2 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"3 - 1",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 0",
+        "AwayTeam":"Djurgårdens IF"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"0 - 0",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"2 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"2 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"2 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"GAIS",
+        "Score":"1 - 1",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"4 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 3",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 2",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"3 - 2",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"0 - 1",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 0",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 2",
+        "AwayTeam":"Degerfors"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Elfsborg",
+        "Score":"5 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Öster",
+        "Score":"3 - 0",
+        "AwayTeam":"Halmstad"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 2",
+        "AwayTeam":"IFK Goteborg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mjällby AIF",
+        "Score":"1 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Öster",
+        "Score":"4 - 3",
+        "AwayTeam":"Värnamo"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Hammarby IF",
+        "Score":"4 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 2",
+        "AwayTeam":"IFK Norrköping"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"BK Hacken",
+        "Score":"0 - 2",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 1",
+        "AwayTeam":"Brommapojkarna"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"IK Sirius",
+        "Score":"1 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"AIK",
+        "Score":"0 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 2",
+        "AwayTeam":"Malmö FF"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Brommapojkarna",
+        "Score":"2 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 1",
+        "AwayTeam":"Mjällby AIF"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Öster",
+        "Score":"2 - 2",
+        "AwayTeam":"IK Sirius"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Degerfors",
+        "Score":"1 - 2",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Värnamo",
+        "Score":"1 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Öster",
+        "Score":"1 - 1",
+        "AwayTeam":"GAIS"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"IFK Goteborg",
+        "Score":"0 - 1",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 1",
+        "AwayTeam":"Elfsborg"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 3",
+        "AwayTeam":"Hammarby IF"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Malmö FF",
+        "Score":"2 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"24-04-2025",
+        "HomeTeam":"Djurgårdens IF",
+        "Score":"1 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Öster",
+        "Score":"0 - 1",
+        "AwayTeam":"AIK"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Halmstad",
+        "Score":"1 - 0",
+        "AwayTeam":"Öster"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Öster",
+        "Score":"2 - 0",
+        "AwayTeam":"BK Hacken"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"IFK Norrköping",
+        "Score":"4 - 3",
+        "AwayTeam":"Öster"
+    }
+]

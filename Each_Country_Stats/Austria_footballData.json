@@ -1,0 +1,782 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"2 - 3",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"0 - 1",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"1 - 3",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"3 - 2",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"0 - 1",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"1 - 0",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"1 - 3",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"2 - 1",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"0 - 2",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"2 - 2",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"2 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"3 - 4",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"0 - 1",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"1 - 0",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"2 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"3 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"0 - 2",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"3 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"0 - 1",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"1 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"2 - 1",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"3 - 1",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"3 - 0",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Hartberg",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"5 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"1 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"0 - 0",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"1 - 3",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"0 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"1 - 1",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"3 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"0 - 3",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 1",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"1 - 1",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"5 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"2 - 2",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"2 - 2",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"0 - 0",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"3 - 3",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"1 - 0",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Hartberg",
+        "Score":"2 - 2",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"0 - 2",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Hartberg",
+        "Score":"0 - 1",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"1 - 3",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Hartberg",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"0 - 1",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"4 - 2",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"1 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"0 - 2",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"3 - 3",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"1 - 0",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"2 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 0",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"1 - 3",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"3 - 0",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"2 - 1",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"3 - 1",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"2 - 2",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"1 - 0",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 1",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 0",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"1 - 0",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 1",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"0 - 0",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 0",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"0 - 2",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"0 - 2",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"2 - 1",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"1 - 3",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"1 - 1",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"4 - 1",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Hartberg",
+        "Score":"0 - 1",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"0 - 0",
+        "AwayTeam":"Rheindorf Altach"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"1 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"1 - 3",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"3 - 4",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"1 - 0",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"FC Salzburg",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"0 - 1",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"0 - 3",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"1 - 3",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"1 - 2",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"2 - 0",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"0 - 0",
+        "AwayTeam":"Grazer AK"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"3 - 2",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"0 - 2",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"LASK Linz",
+        "Score":"1 - 3",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Blau-Weiß Linz",
+        "Score":"0 - 2",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"1 - 3",
+        "AwayTeam":"SK Sturm Graz"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 0",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"2 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"2 - 3",
+        "AwayTeam":"Austria Wien"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"SV Ried",
+        "Score":"2 - 0",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Rheindorf Altach",
+        "Score":"1 - 1",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SK Rapid",
+        "Score":"4 - 1",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"1 - 1",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"1 - 1",
+        "AwayTeam":"WSG Tirol"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"3 - 1",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"4 - 2",
+        "AwayTeam":"Hartberg"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SK Sturm Graz",
+        "Score":"1 - 3",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"1 - 2",
+        "AwayTeam":"SV Ried"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Grazer AK",
+        "Score":"1 - 3",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"1 - 0",
+        "AwayTeam":"LASK Linz"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Hartberg",
+        "Score":"2 - 2",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"3 - 1",
+        "AwayTeam":"FC Salzburg"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"WSG Tirol",
+        "Score":"1 - 1",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Rapid"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"3 - 0",
+        "AwayTeam":"Blau-Weiß Linz"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Austria Wien",
+        "Score":"0 - 2",
+        "AwayTeam":"Wolfsberger AC"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Wolfsberger AC",
+        "Score":"0 - 2",
+        "AwayTeam":"Rheindorf Altach"
+    }
+]

@@ -1,0 +1,1082 @@
+[
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Marseille",
+        "Score":"2 - 2",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Angers",
+        "Score":"2 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Angers",
+        "Score":"1 - 1",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"5 - 0",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Angers",
+        "Score":"0 - 2",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Lyon",
+        "Score":"1 - 0",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Metz",
+        "Score":"1 - 1",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Angers",
+        "Score":"1 - 1",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"1 - 0",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Angers",
+        "Score":"1 - 0",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"3 - 0",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"0 - 1",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Rennes",
+        "Score":"2 - 2",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 2",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"2 - 0",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 0",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 2",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Nantes",
+        "Score":"1 - 0",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Nice",
+        "Score":"3 - 1",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"1 - 0",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Brest",
+        "Score":"0 - 3",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lorient",
+        "Score":"3 - 3",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Brest",
+        "Score":"0 - 0",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Angers",
+        "Score":"0 - 2",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Brest",
+        "Score":"4 - 1",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Brest",
+        "Score":"1 - 2",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Lens",
+        "Score":"3 - 1",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"2 - 0",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Brest",
+        "Score":"3 - 3",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Nice",
+        "Score":"2 - 0",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"6 - 1",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Nantes",
+        "Score":"0 - 2",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"1 - 1",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"0 - 1",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Lens",
+        "Score":"3 - 0",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"2 - 1",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Lorient",
+        "Score":"1 - 7",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"1 - 0",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Brest",
+        "Score":"3 - 3",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"1 - 0",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"0 - 1",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Marseille",
+        "Score":"6 - 2",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"2 - 2",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Metz",
+        "Score":"0 - 0",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"1 - 1",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"1 - 0",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"3 - 1",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"1 - 2",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Monaco",
+        "Score":"3 - 1",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Metz",
+        "Score":"2 - 0",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Lens",
+        "Score":"2 - 1",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lens",
+        "Score":"2 - 1",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 2",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Rennes",
+        "Score":"0 - 0",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Lens",
+        "Score":"3 - 0",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"2 - 0",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Lens",
+        "Score":"3 - 1",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"1 - 2",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Lens",
+        "Score":"0 - 1",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Lorient",
+        "Score":"1 - 1",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Angers",
+        "Score":"2 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lorient",
+        "Score":"3 - 3",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Lorient",
+        "Score":"3 - 1",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"1 - 1",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Marseille",
+        "Score":"4 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Lorient",
+        "Score":"1 - 7",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Lorient",
+        "Score":"4 - 0",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"3 - 3",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Lyon",
+        "Score":"2 - 1",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Nice",
+        "Score":"3 - 2",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Lyon",
+        "Score":"1 - 2",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"0 - 1",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Lyon",
+        "Score":"1 - 0",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Rennes",
+        "Score":"3 - 1",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lyon",
+        "Score":"1 - 0",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Lyon",
+        "Score":"3 - 0",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Lens",
+        "Score":"0 - 1",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Marseille",
+        "Score":"2 - 2",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Lens",
+        "Score":"2 - 1",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Marseille",
+        "Score":"6 - 2",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Metz",
+        "Score":"0 - 3",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"1 - 2",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Marseille",
+        "Score":"1 - 0",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Marseille",
+        "Score":"4 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lyon",
+        "Score":"1 - 0",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Marseille",
+        "Score":"5 - 2",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Rennes",
+        "Score":"1 - 0",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Metz",
+        "Score":"2 - 0",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"6 - 1",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"4 - 0",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Metz",
+        "Score":"0 - 3",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Metz",
+        "Score":"0 - 0",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Monaco",
+        "Score":"5 - 2",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Metz",
+        "Score":"1 - 1",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Lyon",
+        "Score":"3 - 0",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Metz",
+        "Score":"0 - 1",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Nantes",
+        "Score":"3 - 5",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Monaco",
+        "Score":"1 - 0",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Angers",
+        "Score":"1 - 1",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Monaco",
+        "Score":"2 - 2",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Lorient",
+        "Score":"3 - 1",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Monaco",
+        "Score":"5 - 2",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 2",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Monaco",
+        "Score":"3 - 2",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"1 - 0",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Monaco",
+        "Score":"3 - 1",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Nantes",
+        "Score":"3 - 5",
+        "AwayTeam":"Monaco"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Nantes",
+        "Score":"0 - 2",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Brest",
+        "Score":"0 - 0",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"2 - 2",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Nantes",
+        "Score":"2 - 2",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Nice",
+        "Score":"1 - 0",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Nantes",
+        "Score":"1 - 0",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"1 - 0",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Nantes",
+        "Score":"0 - 1",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Nice",
+        "Score":"2 - 0",
+        "AwayTeam":"LOSC Lille"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Rennes",
+        "Score":"1 - 2",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Nice",
+        "Score":"3 - 2",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Monaco",
+        "Score":"2 - 2",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Nice",
+        "Score":"1 - 1",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Brest",
+        "Score":"4 - 1",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Nice",
+        "Score":"1 - 0",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"3 - 1",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Nice",
+        "Score":"3 - 1",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Nice",
+        "Score":"0 - 1",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"3 - 3",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lens",
+        "Score":"2 - 1",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Lorient"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Nice",
+        "Score":"1 - 1",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"2 - 3",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Brest",
+        "Score":"1 - 2",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Marseille",
+        "Score":"5 - 2",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Angers",
+        "Score":"1 - 0",
+        "AwayTeam":"Paris FC"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Lorient",
+        "Score":"1 - 1",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Brest",
+        "Score":"0 - 3",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"3 - 3",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"1 - 1",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"2 - 0",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Marseille",
+        "Score":"1 - 0",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"2 - 0",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"3 - 6",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"1 - 0",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Nantes",
+        "Score":"0 - 1",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"2 - 2",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Rennes",
+        "Score":"1 - 2",
+        "AwayTeam":"Nice"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Rennes",
+        "Score":"2 - 2",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Le Havre",
+        "Score":"2 - 2",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Rennes",
+        "Score":"0 - 0",
+        "AwayTeam":"Lens"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Nantes",
+        "Score":"2 - 2",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Rennes",
+        "Score":"3 - 1",
+        "AwayTeam":"Lyon"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Angers",
+        "Score":"1 - 1",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Lorient",
+        "Score":"4 - 0",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Rennes",
+        "Score":"1 - 0",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"3 - 0",
+        "AwayTeam":"Auxerre"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Lyon",
+        "Score":"2 - 1",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Paris SG",
+        "Score":"3 - 3",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"5 - 0",
+        "AwayTeam":"Angers"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"1 - 2",
+        "AwayTeam":"Marseille"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Paris FC",
+        "Score":"2 - 3",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"1 - 0",
+        "AwayTeam":"Le Havre"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Monaco",
+        "Score":"3 - 2",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Strasbourg",
+        "Score":"1 - 0",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Metz",
+        "Score":"0 - 1",
+        "AwayTeam":"Strasbourg"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"2 - 2",
+        "AwayTeam":"Rennes"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Monaco",
+        "Score":"1 - 0",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"4 - 0",
+        "AwayTeam":"Metz"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Lyon",
+        "Score":"1 - 2",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"2 - 2",
+        "AwayTeam":"Nantes"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Auxerre",
+        "Score":"1 - 0",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"LOSC Lille",
+        "Score":"2 - 1",
+        "AwayTeam":"Toulouse"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"3 - 6",
+        "AwayTeam":"Paris SG"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Toulouse",
+        "Score":"2 - 0",
+        "AwayTeam":"Brest"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Nice",
+        "Score":"0 - 1",
+        "AwayTeam":"Toulouse"
+    }
+]

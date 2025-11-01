@@ -1,0 +1,2498 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"5 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Bryne",
+        "Score":"2 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"1 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Bryne",
+        "Score":"2 - 0",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 2",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"3 - 2",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Bryne",
+        "Score":"2 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Bryne",
+        "Score":"1 - 3",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"3 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Bryne",
+        "Score":"1 - 0",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Bryne",
+        "Score":"1 - 1",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"1 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Bryne",
+        "Score":"3 - 2",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Bryne",
+        "Score":"4 - 3",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 3",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"3 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 2",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Bryne",
+        "Score":"3 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"1 - 2",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"4 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 5",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"7 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"1 - 2",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 5",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"1 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 3",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"30-07-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"1 - 0",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"7 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"2 - 4",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"0 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"2 - 0",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"1 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"1 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"3 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 4",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"2 - 4",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"4 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"3 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 2",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"3 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"2 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"4 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"2 - 3",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 3",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"2 - 2",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"2 - 3",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"3 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 3",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"3 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 2",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"3 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 0",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"4 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 4",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"1 - 4",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"30-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"5 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Bryne",
+        "Score":"3 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 5",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"0 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 3",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 1",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"1 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"1 - 2",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"2 - 2",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"0 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"3 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"0 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"4 - 2",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"0 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 1",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"0 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Bryne",
+        "Score":"4 - 3",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"3 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"09-04-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"2 - 0",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"3 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"1 - 3",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 1",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"HamKam",
+        "Score":"4 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 3",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 2",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"1 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 3",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 3",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"2 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 1",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Bryne",
+        "Score":"1 - 1",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 3",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 1",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"4 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"HamKam",
+        "Score":"0 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"2 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 5",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"3 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 2",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 2",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"KFUM",
+        "Score":"0 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"KFUM",
+        "Score":"4 - 1",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 5",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 2",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 3",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"KFUM",
+        "Score":"5 - 0",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"KFUM",
+        "Score":"0 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"HamKam",
+        "Score":"0 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"3 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 3",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"KFUM",
+        "Score":"3 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"1 - 3",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Bryne",
+        "Score":"2 - 0",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"7 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"0 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 2",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 5",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"6 - 0",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"1 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 0",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"4 - 1",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"4 - 2",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"0 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 2",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 3",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"4 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"1 - 3",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"4 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"1 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"1 - 2",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"3 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 0",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"KFUM",
+        "Score":"0 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"1 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"4 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"4 - 2",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 3",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 3",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"0 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"0 - 3",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"0 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 3",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"0 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 2",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"3 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"0 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"2 - 3",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Bryne",
+        "Score":"2 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"2 - 3",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"HamKam",
+        "Score":"4 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 3",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"2 - 1",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"KFUM",
+        "Score":"4 - 1",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"4 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"2 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"2 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"4 - 1",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"0 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"4 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"3 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"0 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"0 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"1 - 2",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"2 - 3",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"4 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"1 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"0 - 3",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"1 - 4",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 1",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"1 - 0",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"3 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"4 - 2",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"0 - 3",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"2 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"0 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 4",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 2",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"2 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"3 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"0 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"1 - 3",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"1 - 0",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"2 - 3",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"0 - 3",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"1 - 2",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"2 - 2",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"1 - 2",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"3 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"6 - 0",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"2 - 0",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"2 - 0",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"1 - 0",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"4 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Bryne",
+        "Score":"3 - 2",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"3 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"2 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"0 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"2 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"3 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"3 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"KFUM",
+        "Score":"3 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 5",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"2 - 3",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"3 - 3",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"2 - 1",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 3",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"0 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"4 - 0",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"3 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"1 - 4",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"3 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"3 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"1 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"1 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"1 - 1",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"0 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"2 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"4 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 3",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 3",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"1 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"0 - 2",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 3",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"3 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"2 - 1",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"3 - 1",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Bryne",
+        "Score":"2 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 5",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"2 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"30-07-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"1 - 0",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"3 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"4 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"2 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"1 - 0",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"KFUM",
+        "Score":"5 - 0",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 3",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"3 - 2",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 2",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"2 - 3",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"2 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"0 - 5",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"1 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"2 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 3",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 0",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"3 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 0",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Bryne",
+        "Score":"0 - 2",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 0",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"2 - 0",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 2",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"1 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"0 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"4 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"3 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"2 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"0 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"HamKam",
+        "Score":"1 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"0 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 1",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"KFUM",
+        "Score":"1 - 3",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"0 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"4 - 4",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 3",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 1",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"5 - 1",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"1 - 3",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 0",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"3 - 3",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"1 - 0",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"KFUM",
+        "Score":"2 - 2",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"2 - 1",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"1 - 2",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Bryne",
+        "Score":"1 - 3",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"2 - 4",
+        "AwayTeam":"FK Bodø \/ Glimt"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"1 - 0",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Rosenborg",
+        "Score":"1 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 0",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"0 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"2 - 4",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"1 - 4",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"0 - 0",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"30-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"5 - 1",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"4 - 4",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 5",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 1",
+        "AwayTeam":"Kristiansund BK"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Viking FK",
+        "Score":"3 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"3 - 1",
+        "AwayTeam":"Viking FK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 1",
+        "AwayTeam":"Strømsgodset IF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"HamKam",
+        "Score":"2 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 0",
+        "AwayTeam":"Tromsø"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Molde FK",
+        "Score":"4 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 1",
+        "AwayTeam":"KFUM"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"SK Brann",
+        "Score":"3 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"3 - 2",
+        "AwayTeam":"Bryne"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"FK Haugesund",
+        "Score":"2 - 3",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"4 - 0",
+        "AwayTeam":"Sarpsborg 08 FF"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 1",
+        "AwayTeam":"Sandefjord"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FK Bodø \/ Glimt",
+        "Score":"7 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"3 - 0",
+        "AwayTeam":"FK Haugesund"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Bryne",
+        "Score":"1 - 0",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 1",
+        "AwayTeam":"Fredrikstad"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Strømsgodset IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 3",
+        "AwayTeam":"Molde FK"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Tromsø",
+        "Score":"2 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"KFUM",
+        "Score":"0 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"1 - 1",
+        "AwayTeam":"HamKam"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Sandefjord",
+        "Score":"2 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"2 - 4",
+        "AwayTeam":"SK Brann"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Kristiansund BK",
+        "Score":"0 - 2",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"0 - 2",
+        "AwayTeam":"Rosenborg"
+    },
+    {
+        "Date":"09-04-2025",
+        "HomeTeam":"Fredrikstad",
+        "Score":"2 - 0",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sarpsborg 08 FF",
+        "Score":"1 - 1",
+        "AwayTeam":"Vålerenga"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Vålerenga",
+        "Score":"3 - 1",
+        "AwayTeam":"Viking FK"
+    }
+]

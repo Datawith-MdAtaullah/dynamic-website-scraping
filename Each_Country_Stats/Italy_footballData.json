@@ -1,0 +1,1082 @@
+[
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"1 - 1",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"1 - 1",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"0 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"1 - 1",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Juventus",
+        "Score":"1 - 1",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Torino",
+        "Score":"0 - 3",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"4 - 1",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Parma",
+        "Score":"1 - 1",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"1 - 1",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Bologna",
+        "Score":"0 - 0",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"2 - 2",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"0 - 2",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Bologna",
+        "Score":"4 - 0",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Lecce",
+        "Score":"2 - 2",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Bologna",
+        "Score":"2 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Milan",
+        "Score":"1 - 0",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Bologna",
+        "Score":"1 - 0",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Roma",
+        "Score":"1 - 0",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"1 - 2",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Verona",
+        "Score":"2 - 2",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"0 - 2",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Udinese",
+        "Score":"1 - 1",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"0 - 2",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Lecce",
+        "Score":"1 - 2",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"2 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Napoli",
+        "Score":"1 - 0",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"1 - 1",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Como",
+        "Score":"3 - 1",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Parma",
+        "Score":"0 - 0",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Como",
+        "Score":"2 - 0",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"1 - 1",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Como",
+        "Score":"1 - 1",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"1 - 2",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Como",
+        "Score":"1 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Bologna",
+        "Score":"1 - 0",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Como",
+        "Score":"2 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 2",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"1 - 1",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"1 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Inter",
+        "Score":"4 - 1",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Como",
+        "Score":"1 - 1",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"0 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Verona",
+        "Score":"0 - 0",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"3 - 2",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Milan",
+        "Score":"1 - 2",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Inter",
+        "Score":"3 - 0",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"2 - 2",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Milan",
+        "Score":"2 - 1",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"1 - 2",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 0",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"1 - 2",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"1 - 3",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Torino",
+        "Score":"0 - 0",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"1 - 1",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 2",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Torino",
+        "Score":"2 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Napoli",
+        "Score":"2 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 3",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Bologna",
+        "Score":"2 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Como",
+        "Score":"1 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 1",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 0",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Inter",
+        "Score":"3 - 0",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Napoli",
+        "Score":"3 - 1",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Roma",
+        "Score":"0 - 1",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Inter",
+        "Score":"4 - 1",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"0 - 2",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Inter",
+        "Score":"2 - 1",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Juventus",
+        "Score":"4 - 3",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Inter",
+        "Score":"1 - 2",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Inter",
+        "Score":"5 - 0",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Juventus",
+        "Score":"3 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Lazio",
+        "Score":"1 - 0",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Como",
+        "Score":"2 - 0",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Juventus",
+        "Score":"0 - 0",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Juventus",
+        "Score":"1 - 1",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Verona",
+        "Score":"1 - 1",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Juventus",
+        "Score":"4 - 3",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 1",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Juventus",
+        "Score":"2 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Lazio",
+        "Score":"1 - 0",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"0 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Lazio",
+        "Score":"3 - 3",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 3",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Lazio",
+        "Score":"0 - 1",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"1 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lazio",
+        "Score":"4 - 0",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Como",
+        "Score":"2 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Lecce",
+        "Score":"0 - 1",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Udinese",
+        "Score":"3 - 2",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Lecce",
+        "Score":"0 - 0",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Parma",
+        "Score":"0 - 1",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Lecce",
+        "Score":"2 - 2",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Lecce",
+        "Score":"1 - 2",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"4 - 1",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Lecce",
+        "Score":"0 - 2",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 0",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"1 - 1",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Milan",
+        "Score":"2 - 2",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Milan",
+        "Score":"2 - 1",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Juventus",
+        "Score":"0 - 0",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Milan",
+        "Score":"2 - 1",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Udinese",
+        "Score":"0 - 3",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Milan",
+        "Score":"1 - 0",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Lecce",
+        "Score":"0 - 2",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Milan",
+        "Score":"1 - 2",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Lecce",
+        "Score":"0 - 1",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Napoli",
+        "Score":"3 - 1",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Torino",
+        "Score":"1 - 0",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Napoli",
+        "Score":"2 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Milan",
+        "Score":"2 - 1",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Napoli",
+        "Score":"3 - 2",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"1 - 3",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Napoli",
+        "Score":"1 - 0",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"0 - 2",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Roma",
+        "Score":"2 - 1",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Parma",
+        "Score":"0 - 0",
+        "AwayTeam":"Como"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Genoa",
+        "Score":"0 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Parma",
+        "Score":"0 - 1",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Parma",
+        "Score":"2 - 1",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"0 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"2 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Parma",
+        "Score":"1 - 1",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Juventus",
+        "Score":"2 - 0",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Milan",
+        "Score":"2 - 2",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 0",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Bologna",
+        "Score":"4 - 0",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 0",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Napoli",
+        "Score":"3 - 2",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 1",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Atalanta",
+        "Score":"1 - 1",
+        "AwayTeam":"Pisa"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Roma",
+        "Score":"2 - 1",
+        "AwayTeam":"Parma"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"0 - 1",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Roma",
+        "Score":"0 - 1",
+        "AwayTeam":"Inter"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Fiorentina",
+        "Score":"1 - 2",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Roma",
+        "Score":"2 - 0",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Lazio",
+        "Score":"0 - 1",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Roma",
+        "Score":"0 - 1",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 1",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Roma",
+        "Score":"1 - 0",
+        "AwayTeam":"Bologna"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Cagliari",
+        "Score":"1 - 2",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"0 - 1",
+        "AwayTeam":"Roma"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Lecce",
+        "Score":"0 - 0",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Verona",
+        "Score":"0 - 1",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"3 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Inter",
+        "Score":"2 - 1",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"1 - 0",
+        "AwayTeam":"Lazio"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"3 - 2",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"0 - 2",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Bologna",
+        "Score":"0 - 0",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Torino",
+        "Score":"2 - 1",
+        "AwayTeam":"Genoa"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Torino",
+        "Score":"1 - 0",
+        "AwayTeam":"Napoli"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Lazio",
+        "Score":"3 - 3",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Parma",
+        "Score":"2 - 1",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Torino",
+        "Score":"0 - 3",
+        "AwayTeam":"Atalanta"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Roma",
+        "Score":"0 - 1",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Torino",
+        "Score":"0 - 0",
+        "AwayTeam":"Fiorentina"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Inter",
+        "Score":"5 - 0",
+        "AwayTeam":"Torino"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Juventus",
+        "Score":"3 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Udinese",
+        "Score":"3 - 2",
+        "AwayTeam":"Lecce"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Cremonese",
+        "Score":"1 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Udinese",
+        "Score":"1 - 1",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Sassuolo",
+        "Score":"3 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Udinese",
+        "Score":"0 - 3",
+        "AwayTeam":"Milan"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 1",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Inter",
+        "Score":"1 - 2",
+        "AwayTeam":"Udinese"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Udinese",
+        "Score":"1 - 1",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Como",
+        "Score":"3 - 1",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Verona",
+        "Score":"2 - 2",
+        "AwayTeam":"Cagliari"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Pisa",
+        "Score":"0 - 0",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Verona",
+        "Score":"0 - 1",
+        "AwayTeam":"Sassuolo"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Roma",
+        "Score":"2 - 0",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Verona",
+        "Score":"1 - 1",
+        "AwayTeam":"Juventus"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Verona",
+        "Score":"0 - 0",
+        "AwayTeam":"Cremonese"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lazio",
+        "Score":"4 - 0",
+        "AwayTeam":"Verona"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Udinese",
+        "Score":"1 - 1",
+        "AwayTeam":"Verona"
+    }
+]

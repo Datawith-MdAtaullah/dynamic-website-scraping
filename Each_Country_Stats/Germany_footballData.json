@@ -1,0 +1,878 @@
+[
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"0 - 6",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Köln",
+        "Score":"1 - 1",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"3 - 1",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"2 - 1",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"1 - 4",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"2 - 1",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"2 - 3",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"1 - 3",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"2 - 0",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Mainz",
+        "Score":"3 - 4",
+        "AwayTeam":"Bayer 04 Leverkusen"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"2 - 0",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"1 - 2",
+        "AwayTeam":"Bayer 04 Leverkusen"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"1 - 1",
+        "AwayTeam":"Borussia Mönchengladbach"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"3 - 1",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"3 - 3",
+        "AwayTeam":"Bayer 04 Leverkusen"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"1 - 2",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"3 - 1",
+        "AwayTeam":"Borussia Mönchengladbach"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 0",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"4 - 6",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"1 - 1",
+        "AwayTeam":"Borussia Mönchengladbach"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 4",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"1 - 0",
+        "AwayTeam":"Borussia Mönchengladbach"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 0",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"2 - 1",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"1 - 1",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Mainz",
+        "Score":"0 - 2",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"1 - 0",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"0 - 2",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"3 - 0",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"3 - 3",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"2 - 0",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"4 - 6",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"3 - 4",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"3 - 1",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"1 - 3",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"4 - 1",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"2 - 1",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"4 - 0",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"1 - 4",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"5 - 0",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"2 - 3",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"6 - 0",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Köln",
+        "Score":"1 - 1",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Köln",
+        "Score":"1 - 2",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"RB Leipzig",
+        "Score":"3 - 1",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"3 - 3",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"FC Köln",
+        "Score":"4 - 1",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Mainz",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"3 - 1",
+        "AwayTeam":"Borussia Mönchengladbach"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"2 - 0",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"0 - 0",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"3 - 4",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"2 - 4",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"3 - 0",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"2 - 1",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"2 - 0",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"2 - 2",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 0",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"1 - 1",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"0 - 3",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"3 - 1",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"FC Köln",
+        "Score":"4 - 1",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"1 - 3",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"RB Leipzig",
+        "Score":"2 - 1",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"4 - 0",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"0 - 0",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"2 - 1",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"5 - 0",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"0 - 2",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 0",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"3 - 1",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"2 - 2",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"1 - 0",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"2 - 1",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"2 - 1",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"0 - 2",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"RB Leipzig",
+        "Score":"2 - 0",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"1 - 3",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"2 - 1",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Mainz",
+        "Score":"3 - 4",
+        "AwayTeam":"Bayer 04 Leverkusen"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"4 - 0",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Mainz",
+        "Score":"0 - 2",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"1 - 4",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Mainz",
+        "Score":"0 - 1",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"1 - 1",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Mainz",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"0 - 6",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"RB Leipzig",
+        "Score":"2 - 1",
+        "AwayTeam":"Hamburg"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"1 - 1",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"0 - 1",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"RB Leipzig",
+        "Score":"3 - 1",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Mainz",
+        "Score":"0 - 1",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"RB Leipzig",
+        "Score":"2 - 0",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"6 - 0",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"2 - 0",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"0 - 3",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"1 - 0",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"1 - 2",
+        "AwayTeam":"Bayer 04 Leverkusen"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"2 - 0",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"2 - 1",
+        "AwayTeam":"Augsburg"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"0 - 2",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"3 - 3",
+        "AwayTeam":"Dortmund"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"2 - 1",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"0 - 3",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"1 - 0",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Köln",
+        "Score":"1 - 2",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"2 - 0",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"3 - 1",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Stuttgart",
+        "Score":"1 - 0",
+        "AwayTeam":"Borussia Mönchengladbach"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"2 - 1",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"3 - 1",
+        "AwayTeam":"Heidenheim"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"St Pauli",
+        "Score":"0 - 3",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Freiburg",
+        "Score":"1 - 1",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"1 - 4",
+        "AwayTeam":"FC Bayern München"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Union Berlin",
+        "Score":"2 - 4",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"TSG Hoffenheim",
+        "Score":"1 - 3",
+        "AwayTeam":"Ein Frankfurt"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Bayer 04 Leverkusen",
+        "Score":"1 - 2",
+        "AwayTeam":"TSG Hoffenheim"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Union Berlin"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"2 - 2",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"1 - 0",
+        "AwayTeam":"St Pauli"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"FC Bayern München",
+        "Score":"4 - 0",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"0 - 3",
+        "AwayTeam":"Freiburg"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Borussia Mönchengladbach",
+        "Score":"0 - 4",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Werder Bremen",
+        "Score":"3 - 3",
+        "AwayTeam":"Bayer 04 Leverkusen"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Ein Frankfurt",
+        "Score":"4 - 1",
+        "AwayTeam":"Werder Bremen"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Hamburg",
+        "Score":"0 - 1",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"0 - 3",
+        "AwayTeam":"Stuttgart"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Augsburg",
+        "Score":"3 - 1",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"0 - 1",
+        "AwayTeam":"RB Leipzig"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Dortmund",
+        "Score":"1 - 0",
+        "AwayTeam":"Wolfsburg"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"3 - 3",
+        "AwayTeam":"FC Köln"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Wolfsburg",
+        "Score":"1 - 1",
+        "AwayTeam":"Mainz"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Heidenheim",
+        "Score":"1 - 3",
+        "AwayTeam":"Wolfsburg"
+    }
+]

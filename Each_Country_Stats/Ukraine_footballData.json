@@ -1,0 +1,974 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"4 - 0",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"1 - 1",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"1 - 1",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"3 - 3",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"2 - 2",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"2 - 2",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"4 - 1",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"1 - 4",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"1 - 5",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Veres",
+        "Score":"0 - 1",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"0 - 1",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"1 - 3",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"1 - 2",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"2 - 1",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"4 - 5",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"0 - 1",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"1 - 0",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"1 - 4",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"1 - 0",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"0 - 1",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"0 - 0",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"1 - 3",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"0 - 2",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"3 - 3",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"0 - 2",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"1 - 1",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"2 - 2",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"1 - 1",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"3 - 3",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"0 - 2",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"2 - 2",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"1 - 0",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"0 - 2",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"1 - 0",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"0 - 0",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"1 - 3",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"1 - 0",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"1 - 1",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"0 - 1",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"2 - 1",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"4 - 0",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"1 - 2",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"3 - 1",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"0 - 0",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"4 - 5",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"0 - 1",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"2 - 1",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"2 - 3",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"2 - 0",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"2 - 1",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"1 - 0",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"4 - 0",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"1 - 1",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"3 - 1",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"2 - 1",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"2 - 0",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Veres",
+        "Score":"2 - 0",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"2 - 2",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"3 - 1",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"2 - 1",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"3 - 1",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"0 - 1",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"1 - 0",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"1 - 4",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"0 - 0",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"1 - 0",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"4 - 1",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"0 - 2",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"0 - 2",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"1 - 0",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"0 - 0",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"0 - 1",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"1 - 1",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"1 - 1",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"1 - 0",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"0 - 2",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"1 - 1",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"2 - 0",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"1 - 4",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"2 - 0",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"0 - 0",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"1 - 0",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"0 - 4",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"1 - 2",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"1 - 1",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"0 - 0",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"0 - 2",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"2 - 2",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"2 - 1",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"1 - 2",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"1 - 0",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"0 - 0",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"0 - 1",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Veres",
+        "Score":"1 - 1",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"0 - 2",
+        "AwayTeam":"Karpaty"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"1 - 0",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"2 - 2",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"4 - 1",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"2 - 0",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"1 - 4",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"1 - 0",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"3 - 1",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"0 - 4",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"0 - 0",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"4 - 0",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Veres",
+        "Score":"1 - 4",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"2 - 0",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Kryvbas Kryvyi Rih",
+        "Score":"0 - 1",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dynamo Kyiv",
+        "Score":"4 - 1",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"0 - 2",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"0 - 1",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"0 - 2",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"0 - 0",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"1 - 2",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"0 - 2",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"0 - 4",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"1 - 0",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"0 - 1",
+        "AwayTeam":"Epitsentr Dunayivtsi"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"2 - 0",
+        "AwayTeam":"Rukh Vynnyky"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"1 - 2",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"1 - 5",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"2 - 1",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"2 - 2",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"1 - 2",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"4 - 0",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Oleksandria",
+        "Score":"1 - 0",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"0 - 2",
+        "AwayTeam":"Metalist 1925 Kharkiv"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"1 - 1",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"1 - 4",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Kudrivka",
+        "Score":"3 - 1",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"1 - 0",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"2 - 1",
+        "AwayTeam":"SK Poltava"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"4 - 0",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Polissya Zhytomyr",
+        "Score":"0 - 0",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"1 - 4",
+        "AwayTeam":"LNZ Cherkasy"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Rukh Vynnyky",
+        "Score":"0 - 4",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"1 - 0",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Metalist 1925 Kharkiv",
+        "Score":"1 - 1",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"2 - 0",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Veres",
+        "Score":"0 - 2",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Karpaty",
+        "Score":"3 - 3",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"0 - 1",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Veres",
+        "Score":"0 - 0",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Veres",
+        "Score":"1 - 1",
+        "AwayTeam":"Oleksandria"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Obolon-Brovar",
+        "Score":"1 - 1",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Veres",
+        "Score":"1 - 4",
+        "AwayTeam":"Polissya Zhytomyr"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Kolos Kovalivka",
+        "Score":"0 - 0",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Veres",
+        "Score":"2 - 0",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"LNZ Cherkasy",
+        "Score":"0 - 2",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Veres",
+        "Score":"0 - 2",
+        "AwayTeam":"Shakhtar Donetsk"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"1 - 0",
+        "AwayTeam":"Veres"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Veres",
+        "Score":"0 - 1",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Veres",
+        "Score":"0 - 0",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"1 - 1",
+        "AwayTeam":"Dynamo Kyiv"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Epitsentr Dunayivtsi",
+        "Score":"1 - 2",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"0 - 0",
+        "AwayTeam":"Obolon-Brovar"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Shakhtar Donetsk",
+        "Score":"1 - 0",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"1 - 3",
+        "AwayTeam":"Kolos Kovalivka"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"SK Poltava",
+        "Score":"1 - 4",
+        "AwayTeam":"Zorya Luhansk"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"2 - 3",
+        "AwayTeam":"Kryvbas Kryvyi Rih"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"2 - 1",
+        "AwayTeam":"Kudrivka"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Zorya Luhansk",
+        "Score":"0 - 0",
+        "AwayTeam":"LNZ Cherkasy"
+    }
+]

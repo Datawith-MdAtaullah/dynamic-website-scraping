@@ -1,0 +1,3650 @@
+[
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"2 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"5 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"3 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"2 - 2",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"ADT",
+        "Score":"3 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"0 - 2",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"ADT",
+        "Score":"3 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"31-07-2025",
+        "HomeTeam":"ADT",
+        "Score":"0 - 3",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"04-07-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"ADT",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Universitario",
+        "Score":"5 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"ADT",
+        "Score":"0 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 2",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 1",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Melgar",
+        "Score":"4 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"ADT",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"2 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"27-02-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 2",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 3",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"ADT",
+        "Score":"4 - 3",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 2",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 4",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"3 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"3 - 2",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"3 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Universitario",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 2",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 4",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"4 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"4 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 4",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Universitario",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"0 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"5 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Melgar",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"0 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"0 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"ADT",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"2 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"3 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"14-10-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"5 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 3",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 3",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"31-07-2025",
+        "HomeTeam":"ADT",
+        "Score":"0 - 3",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"1 - 2",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"20-06-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"1 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"4 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"07-03-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Universitario",
+        "Score":"4 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 3",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"3 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"3 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"3 - 3",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"ADT",
+        "Score":"4 - 3",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"4 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Universitario",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"2 - 2",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"2 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"3 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"3 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"30-07-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"1 - 2",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 2",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"ADT",
+        "Score":"0 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 4",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"0 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 2",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"04-04-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"2 - 3",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"2 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"17-02-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"3 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"5 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 2",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 3",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"3 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"2 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"3 - 2",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"6 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"0 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"2 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"0 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"3 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 3",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 2",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"2 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"4 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"2 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"11-07-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"3 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"3 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"2 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"4 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 4",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"3 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 1",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"0 - 2",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"31-07-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Melgar",
+        "Score":"0 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 3",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 3",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 1",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"1 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"4 - 2",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 4",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 3",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"31-07-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"0 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"5 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"3 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 3",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"04-04-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"5 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"4 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 4",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"4 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 4",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 4",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 1",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"3 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"ADT",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"4 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 3",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"0 - 3",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"4 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"07-03-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 3",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"2 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"10-02-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"2 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"3 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"3 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"4 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"2 - 0",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 2",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"0 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 2",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"1 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"4 - 2",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"4 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"0 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"0 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 1",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"2 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Melgar",
+        "Score":"6 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 2",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"3 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"3 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Universitario",
+        "Score":"0 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"04-07-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 2",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"3 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 3",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 3",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"0 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"10-03-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"2 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"10-02-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"14-10-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 0",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Melgar",
+        "Score":"6 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"1 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Melgar",
+        "Score":"0 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Melgar",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"2 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Universitario",
+        "Score":"4 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Melgar",
+        "Score":"4 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"27-03-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"2 - 3",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"14-02-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Melgar",
+        "Score":"3 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"3 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 3",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 2",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Universitario",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"30-07-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"3 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"4 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"3 - 3",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"2 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"0 - 4",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"4 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"27-02-2025",
+        "HomeTeam":"ADT",
+        "Score":"2 - 2",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"1 - 0",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Melgar",
+        "Score":"2 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"5 - 1",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"3 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"5 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"2 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 2",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"1 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"3 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"30-07-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"5 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"5 - 1",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"04-07-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"2 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"0 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"4 - 2",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"1 - 3",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"0 - 3",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"2 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"0 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"0 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"07-02-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"2 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"0 - 1",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"0 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"ADT",
+        "Score":"3 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 0",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"ADC Juan Pablo II",
+        "Score":"0 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 3",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"1 - 0",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"0 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"30-07-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"5 - 0",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"3 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 2",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Universitario",
+        "Score":"2 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"1 - 4",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"3 - 2",
+        "AwayTeam":"Juan Pablo II College"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"1 - 0",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"4 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"5 - 0",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"1 - 2",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"0 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"2 - 2",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"3 - 2",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"13-10-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"2 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"2 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"ADT",
+        "Score":"3 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"2 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"2 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"0 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 2",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"04-07-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 1",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"20-06-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"1 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 2",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"6 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"2 - 0",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Los Chankas",
+        "Score":"2 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Garcilaso"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Universitario",
+        "Score":"6 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 1",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"4 - 1",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"4 - 2",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"1 - 1",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"0 - 4",
+        "AwayTeam":"Deportivo Binacional"
+    },
+    {
+        "Date":"08-02-2025",
+        "HomeTeam":"Melgar",
+        "Score":"3 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"ADT",
+        "Score":"1 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Sporting Cristal",
+        "Score":"0 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Universitario",
+        "Score":"2 - 1",
+        "AwayTeam":"Ayacucho"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 0",
+        "AwayTeam":"ADC Juan Pablo II"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Alianza Atlético",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 2",
+        "AwayTeam":"Cusco FC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"UTC Cajamarca",
+        "Score":"1 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Melgar",
+        "Score":"1 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Universitario",
+        "Score":"0 - 0",
+        "AwayTeam":"Alianza Lima"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Sport Huancayo",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Universitario",
+        "Score":"1 - 0",
+        "AwayTeam":"Sport Boys"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Alianza Universidad",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlético Grau"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Cienciano",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Comerciantes Unidos"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Universitario",
+        "Score":"0 - 0",
+        "AwayTeam":"Los Chankas"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Deportivo Garcilaso",
+        "Score":"0 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Atlético Grau",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Universitario",
+        "Score":"5 - 0",
+        "AwayTeam":"ADT"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Ayacucho",
+        "Score":"0 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Universitario",
+        "Score":"2 - 0",
+        "AwayTeam":"Sporting Cristal"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Juan Pablo II College",
+        "Score":"2 - 0",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Universitario",
+        "Score":"0 - 1",
+        "AwayTeam":"Alianza Atlético"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Cusco FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Universitario",
+        "Score":"6 - 0",
+        "AwayTeam":"UTC Cajamarca"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Deportivo Binacional",
+        "Score":"1 - 3",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Universitario",
+        "Score":"4 - 1",
+        "AwayTeam":"Melgar"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Alianza Lima",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Sport Huancayo"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Sport Boys",
+        "Score":"0 - 2",
+        "AwayTeam":"Universitario"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Universitario",
+        "Score":"4 - 0",
+        "AwayTeam":"Alianza Universidad"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Universitario",
+        "Score":"3 - 2",
+        "AwayTeam":"Cienciano"
+    },
+    {
+        "Date":"09-02-2025",
+        "HomeTeam":"Comerciantes Unidos",
+        "Score":"1 - 1",
+        "AwayTeam":"Universitario"
+    }
+]

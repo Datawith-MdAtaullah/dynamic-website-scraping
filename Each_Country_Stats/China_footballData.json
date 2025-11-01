@@ -1,0 +1,2726 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 4",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"2 - 1",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"4 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 0",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"6 - 0",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"4 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"1 - 3",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 4",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 0",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"0 - 4",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"3 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"25-04-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"6 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"4 - 4",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"0 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 2",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"2 - 2",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"3 - 3",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"2 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"0 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"0 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"0 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"3 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"4 - 2",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"0 - 0",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"3 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 3",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"2 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 2",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"3 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 3",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"1 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"4 - 1",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 5",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"0 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 0",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"5 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"3 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 1",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"0 - 4",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 1",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 0",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 3",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"0 - 3",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"4 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"4 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"0 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 0",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"3 - 2",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 1",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"4 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 2",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 5",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 0",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"4 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"4 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"4 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 2",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"3 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"0 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"3 - 4",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"25-04-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"3 - 1",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 3",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 3",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"2 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"0 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 4",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"3 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"6 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"2 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"2 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 2",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"2 - 4",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"0 - 4",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"0 - 4",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"3 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"3 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 3",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"3 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"2 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"3 - 4",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"2 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 2",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 4",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"3 - 4",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"2 - 2",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"2 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 2",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"0 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"5 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"2 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"4 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 3",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 1",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"3 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"1 - 1",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"3 - 1",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 2",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"2 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"1 - 3",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"0 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"2 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 1",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 0",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 1",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"4 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"3 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 1",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 3",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"3 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"2 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 1",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"1 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"2 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 3",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"6 - 0",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 3",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"2 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 0",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"4 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"3 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"1 - 1",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"0 - 1",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"6 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"4 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"0 - 3",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"3 - 4",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"4 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"0 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 1",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"3 - 4",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"4 - 2",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"4 - 1",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 1",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"4 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"2 - 4",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"2 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 1",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 1",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"0 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"25-04-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 3",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 4",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 1",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"2 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"3 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"28-02-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"2 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"1 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"6 - 1",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"1 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 3",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 0",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 2",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"0 - 0",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"4 - 4",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 2",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"3 - 1",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"4 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 0",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"0 - 1",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 2",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 1",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 3",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"1 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 2",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"2 - 1",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 2",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"2 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"2 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 3",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"4 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"2 - 4",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"3 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"4 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"5 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"3 - 1",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"3 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"3 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"3 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"4 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 3",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"3 - 4",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 2",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"4 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"1 - 1",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 0",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"0 - 0",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"2 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 1",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"0 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"3 - 4",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 1",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 4",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 1",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 2",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 2",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 2",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"0 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 5",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"4 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 0",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"4 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 2",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"0 - 0",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"1 - 1",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 2",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"3 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"1 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 2",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"0 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"1 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"2 - 1",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"2 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"4 - 4",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"3 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"3 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"1 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"0 - 4",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"2 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 0",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"1 - 4",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"1 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"4 - 2",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 1",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 5",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 1",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"5 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"4 - 4",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"3 - 1",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 1",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 0",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 0",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"0 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"3 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"3 - 2",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"25-04-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"2 - 3",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"0 - 0",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"1 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"3 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 0",
+        "AwayTeam":"Qingdao Hainiu"
+    },
+    {
+        "Date":"02-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"3 - 4",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 1",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"0 - 2",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Shanghai Port",
+        "Score":"3 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Henan Songshan Longmen",
+        "Score":"2 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Shandong Taishan"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 3",
+        "AwayTeam":"Chengdu Rongcheng"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Changchun Yatai",
+        "Score":"3 - 3",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Qingdao West Coast",
+        "Score":"0 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Meizhou Hakka",
+        "Score":"2 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 0",
+        "AwayTeam":"Tianjin Jinmen Tiger"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"0 - 0",
+        "AwayTeam":"Shanghai Shenhua"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 4",
+        "AwayTeam":"Beijing Guoan"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Shenzhen Peng City",
+        "Score":"2 - 4",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 2",
+        "AwayTeam":"Wuhan Three Towns"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 1",
+        "AwayTeam":"Yunnan Yukun"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Dalian Yingbo",
+        "Score":"1 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Qingdao Hainiu",
+        "Score":"0 - 3",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Shanghai Port"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Henan Songshan Longmen"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Shandong Taishan",
+        "Score":"4 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Chengdu Rongcheng",
+        "Score":"2 - 1",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"01-05-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"4 - 2",
+        "AwayTeam":"Changchun Yatai"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 1",
+        "AwayTeam":"Qingdao West Coast"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Tianjin Jinmen Tiger",
+        "Score":"2 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"2 - 2",
+        "AwayTeam":"Meizhou Hakka"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Shanghai Shenhua",
+        "Score":"3 - 2",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Beijing Guoan",
+        "Score":"2 - 0",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"3 - 0",
+        "AwayTeam":"Shenzhen Peng City"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Wuhan Three Towns",
+        "Score":"0 - 4",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Yunnan Yukun",
+        "Score":"1 - 1",
+        "AwayTeam":"Zhejiang"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Zhejiang",
+        "Score":"1 - 1",
+        "AwayTeam":"Dalian Yingbo"
+    }
+]

@@ -1,0 +1,950 @@
+[
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"1 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"TS Galaxy",
+        "Score":"3 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"2 - 1",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Magesi",
+        "Score":"1 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"1 - 0",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"2 - 0",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"1 - 0",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"0 - 0",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 1",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"2 - 1",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"2 - 1",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"0 - 3",
+        "AwayTeam":"Orlando Pirates"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 0",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"1 - 4",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Durban City",
+        "Score":"1 - 0",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"1 - 1",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Durban City",
+        "Score":"0 - 1",
+        "AwayTeam":"Kaizer Chiefs"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"1 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Durban City",
+        "Score":"3 - 1",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"3 - 1",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Durban City",
+        "Score":"2 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"2 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"0 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Durban City",
+        "Score":"1 - 1",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Durban City",
+        "Score":"1 - 0",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"TS Galaxy",
+        "Score":"0 - 2",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"4 - 3",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"3 - 0",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"1 - 0",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 0",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"2 - 1",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"0 - 1",
+        "AwayTeam":"Kaizer Chiefs"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"2 - 1",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Durban City",
+        "Score":"1 - 1",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"1 - 0",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"3 - 1",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Durban City",
+        "Score":"0 - 1",
+        "AwayTeam":"Kaizer Chiefs"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"0 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 1",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 3",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"0 - 1",
+        "AwayTeam":"Kaizer Chiefs"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"0 - 0",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 0",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 0",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 2",
+        "AwayTeam":"Kaizer Chiefs"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Magesi",
+        "Score":"2 - 1",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Durban City",
+        "Score":"3 - 1",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 0",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Magesi",
+        "Score":"2 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"3 - 0",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Magesi",
+        "Score":"1 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"2 - 1",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Magesi",
+        "Score":"0 - 2",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Magesi",
+        "Score":"1 - 1",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"0 - 0",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"4 - 1",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"1 - 0",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"3 - 1",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"3 - 0",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 1",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"0 - 0",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Magesi",
+        "Score":"0 - 2",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"2 - 0",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"1 - 1",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"1 - 0",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 1",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 1",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"1 - 0",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"1 - 0",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Orlando Pirates"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 2",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 2",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"3 - 0",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 0",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 1",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"2 - 1",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 3",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"1 - 0",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"0 - 3",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"1 - 0",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"1 - 0",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"2 - 0",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"0 - 1",
+        "AwayTeam":"Orlando Pirates"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"0 - 3",
+        "AwayTeam":"Orlando Pirates"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"1 - 0",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"1 - 0",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Orlando Pirates"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"0 - 1",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"1 - 0",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"1 - 0",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 0",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"2 - 1",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"2 - 1",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Marumo Gallants FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"0 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"0 - 1",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 0",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"0 - 0",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 2",
+        "AwayTeam":"Orbit College"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Mamelodi Sundowns",
+        "Score":"4 - 1",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 0",
+        "AwayTeam":"Magesi"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 1",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 1",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"0 - 0",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 0",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 0",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Golden Arrows",
+        "Score":"1 - 0",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 2",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"1 - 0",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Polokwane City",
+        "Score":"1 - 0",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 1",
+        "AwayTeam":"Chippa United"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 0",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"1 - 3",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"2 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"0 - 3",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 0",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"0 - 1",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"1 - 0",
+        "AwayTeam":"Sekhukhune United"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Kaizer Chiefs",
+        "Score":"0 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"1 - 0",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"0 - 1",
+        "AwayTeam":"Orlando Pirates"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Magesi",
+        "Score":"2 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Durban City",
+        "Score":"2 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"0 - 0",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"TS Galaxy",
+        "Score":"2 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"0 - 1",
+        "AwayTeam":"Polokwane City"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Siwelele",
+        "Score":"3 - 1",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"4 - 3",
+        "AwayTeam":"Golden Arrows"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"0 - 0",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 0",
+        "AwayTeam":"Durban City"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 1",
+        "AwayTeam":"Richards Bay"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"AmaZulu",
+        "Score":"2 - 1",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 1",
+        "AwayTeam":"Mamelodi Sundowns"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"1 - 0",
+        "AwayTeam":"Marumo Gallants FC"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"1 - 0",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Magesi",
+        "Score":"1 - 1",
+        "AwayTeam":"Stellenbosch"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Stellenbosch",
+        "Score":"0 - 2",
+        "AwayTeam":"Kaizer Chiefs"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Magesi",
+        "Score":"2 - 1",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Orlando Pirates",
+        "Score":"2 - 0",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"TS Galaxy",
+        "Score":"3 - 1",
+        "AwayTeam":"AmaZulu"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Richards Bay",
+        "Score":"1 - 1",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Orbit College",
+        "Score":"1 - 3",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"TS Galaxy",
+        "Score":"2 - 0",
+        "AwayTeam":"Siwelele"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Chippa United",
+        "Score":"1 - 4",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"13-08-2025",
+        "HomeTeam":"Sekhukhune United",
+        "Score":"1 - 0",
+        "AwayTeam":"TS Galaxy"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"TS Galaxy",
+        "Score":"0 - 2",
+        "AwayTeam":"Durban City"
+    }
+]

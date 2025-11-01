@@ -1,0 +1,722 @@
+[
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Al Najma",
+        "Score":"0 - 1",
+        "AwayTeam":"Al Ahli"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Shabab"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Al Hazm",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Ahli"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"3 - 3",
+        "AwayTeam":"Al Hilal"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Ahli"
+    },
+    {
+        "Date":"28-08-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"1 - 0",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Al-Qadsiah",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Akhdoud"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"1 - 2",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"3 - 1",
+        "AwayTeam":"Al Akhdoud"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"NEOM SC",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Akhdoud"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"2 - 3",
+        "AwayTeam":"Al Taawoun"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"2 - 5",
+        "AwayTeam":"Al Ittihad"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"2 - 2",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Al Fateh",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Ettifaq"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"0 - 5",
+        "AwayTeam":"Al Hilal"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 3",
+        "AwayTeam":"Al Ettifaq"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Al Taawoun",
+        "Score":"4 - 1",
+        "AwayTeam":"Al Ettifaq"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Ahli"
+    },
+    {
+        "Date":"28-08-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Al Fateh",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Ettifaq"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Al Nassr",
+        "Score":"5 - 1",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Al Fateh",
+        "Score":"0 - 1",
+        "AwayTeam":"Al-Qadsiah"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Al Hazm",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Al Ittihad",
+        "Score":"4 - 2",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Al Fateh",
+        "Score":"1 - 2",
+        "AwayTeam":"Al-Fayha"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"2 - 2",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Al Hazm",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Nassr"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"1 - 2",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Al Hazm",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Ahli"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Al Hazm",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"28-08-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Shabab"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Al Ittihad",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Hilal"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"0 - 5",
+        "AwayTeam":"Al Hilal"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"3 - 1",
+        "AwayTeam":"Al Akhdoud"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"3 - 3",
+        "AwayTeam":"Al Hilal"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"2 - 2",
+        "AwayTeam":"Al-Qadsiah"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"2 - 0",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Al Ittihad",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Hilal"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Al-Fayha",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Ittihad"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Al Ittihad",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Nassr"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Al Najma",
+        "Score":"0 - 1",
+        "AwayTeam":"Al Ittihad"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Al Ittihad",
+        "Score":"4 - 2",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"2 - 5",
+        "AwayTeam":"Al Ittihad"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"NEOM SC",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Khaleej"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Al Khaleej",
+        "Score":"4 - 1",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Al Khaleej",
+        "Score":"0 - 1",
+        "AwayTeam":"Al Taawoun"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Al-Qadsiah",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Khaleej"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Al Khaleej",
+        "Score":"3 - 0",
+        "AwayTeam":"Al-Fayha"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 4",
+        "AwayTeam":"Al Khaleej"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Al Kholood",
+        "Score":"2 - 3",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Al Riyadh",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Al Kholood",
+        "Score":"5 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 2",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Al Kholood",
+        "Score":"2 - 1",
+        "AwayTeam":"Damac FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Al Nassr",
+        "Score":"2 - 0",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"28-08-2025",
+        "HomeTeam":"Al Ettifaq",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Al Najma",
+        "Score":"0 - 1",
+        "AwayTeam":"Al Ahli"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Al Kholood",
+        "Score":"5 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Al Najma",
+        "Score":"1 - 2",
+        "AwayTeam":"Al-Fayha"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Al Najma",
+        "Score":"0 - 1",
+        "AwayTeam":"Al Ittihad"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Al Riyadh",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Al-Qadsiah",
+        "Score":"3 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Al Hazm",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Nassr"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Al Nassr",
+        "Score":"5 - 1",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Al Ittihad",
+        "Score":"0 - 2",
+        "AwayTeam":"Al Nassr"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Al Nassr",
+        "Score":"5 - 1",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Al Nassr",
+        "Score":"2 - 0",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Al Taawoun",
+        "Score":"0 - 5",
+        "AwayTeam":"Al Nassr"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Al Riyadh",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Al Khaleej",
+        "Score":"4 - 1",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Al Riyadh",
+        "Score":"2 - 3",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Al Nassr",
+        "Score":"5 - 1",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Al Riyadh",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"2 - 0",
+        "AwayTeam":"Al Riyadh"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Shabab"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 1",
+        "AwayTeam":"Damac FC"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Shabab"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 2",
+        "AwayTeam":"Al Kholood"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Al-Fayha",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Shabab"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 4",
+        "AwayTeam":"Al Khaleej"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Al-Fayha",
+        "Score":"1 - 2",
+        "AwayTeam":"Al Taawoun"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Al Taawoun",
+        "Score":"6 - 1",
+        "AwayTeam":"Damac FC"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Al Khaleej",
+        "Score":"0 - 1",
+        "AwayTeam":"Al Taawoun"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Al Taawoun",
+        "Score":"4 - 1",
+        "AwayTeam":"Al Ettifaq"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Al Akhdoud",
+        "Score":"2 - 3",
+        "AwayTeam":"Al Taawoun"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Al Taawoun",
+        "Score":"0 - 5",
+        "AwayTeam":"Al Nassr"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Al-Fayha",
+        "Score":"1 - 2",
+        "AwayTeam":"Al Taawoun"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Al-Fayha",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Ittihad"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Al Najma",
+        "Score":"1 - 2",
+        "AwayTeam":"Al-Fayha"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Al-Fayha",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Shabab"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Al Khaleej",
+        "Score":"3 - 0",
+        "AwayTeam":"Al-Fayha"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Al Fateh",
+        "Score":"1 - 2",
+        "AwayTeam":"Al-Fayha"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Al-Qadsiah",
+        "Score":"0 - 0",
+        "AwayTeam":"Al Akhdoud"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"NEOM SC",
+        "Score":"1 - 3",
+        "AwayTeam":"Al-Qadsiah"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Al Fateh",
+        "Score":"0 - 1",
+        "AwayTeam":"Al-Qadsiah"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Al-Qadsiah",
+        "Score":"2 - 1",
+        "AwayTeam":"Al Khaleej"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Al Hilal",
+        "Score":"2 - 2",
+        "AwayTeam":"Al-Qadsiah"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Al-Qadsiah",
+        "Score":"3 - 1",
+        "AwayTeam":"Al Najma"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Fateh"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Al Shabab",
+        "Score":"1 - 1",
+        "AwayTeam":"Damac FC"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Al Taawoun",
+        "Score":"6 - 1",
+        "AwayTeam":"Damac FC"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 3",
+        "AwayTeam":"Al Ettifaq"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Al Kholood",
+        "Score":"2 - 1",
+        "AwayTeam":"Damac FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 2",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"28-08-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Hazm"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Al Kholood",
+        "Score":"2 - 3",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"NEOM SC",
+        "Score":"1 - 1",
+        "AwayTeam":"Al Khaleej"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"NEOM SC",
+        "Score":"1 - 3",
+        "AwayTeam":"Al-Qadsiah"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Al Riyadh",
+        "Score":"2 - 3",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"NEOM SC",
+        "Score":"1 - 0",
+        "AwayTeam":"Al Akhdoud"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Damac FC",
+        "Score":"1 - 2",
+        "AwayTeam":"NEOM SC"
+    },
+    {
+        "Date":"28-08-2025",
+        "HomeTeam":"Al Ahli",
+        "Score":"1 - 0",
+        "AwayTeam":"NEOM SC"
+    }
+]

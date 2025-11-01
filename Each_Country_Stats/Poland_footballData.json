@@ -1,0 +1,1370 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"2 - 1",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"4 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"2 - 1",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"4 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"0 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"2 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"1 - 0",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"1 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Katowice",
+        "Score":"4 - 1",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"2 - 1",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"0 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"1 - 1",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"1 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"2 - 1",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 0",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"2 - 1",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"1 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Katowice",
+        "Score":"0 - 3",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"0 - 0",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"1 - 0",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"5 - 2",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 2",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 0",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"1 - 4",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"2 - 1",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"1 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"3 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"1 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"3 - 2",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"0 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"0 - 1",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"3 - 0",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"0 - 3",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"0 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"0 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"2 - 1",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"2 - 1",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"4 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"3 - 1",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 2",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"0 - 0",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"0 - 1",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"1 - 1",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"2 - 0",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 2",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"5 - 2",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"3 - 2",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"0 - 4",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"0 - 3",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Katowice",
+        "Score":"1 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"2 - 5",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Katowice",
+        "Score":"0 - 1",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"1 - 1",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Katowice",
+        "Score":"0 - 3",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"2 - 0",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Katowice",
+        "Score":"3 - 2",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"3 - 0",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Katowice",
+        "Score":"4 - 1",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"3 - 1",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"3 - 0",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Katowice",
+        "Score":"2 - 2",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Katowice",
+        "Score":"0 - 1",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"0 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Katowice",
+        "Score":"1 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"1 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"3 - 1",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"3 - 0",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"0 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"1 - 0",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"1 - 3",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"2 - 0",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"1 - 1",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"3 - 0",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"1 - 1",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"0 - 2",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"2 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"0 - 0",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 2",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Katowice",
+        "Score":"0 - 1",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 2",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"2 - 2",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"0 - 2",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"1 - 2",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 1",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"1 - 1",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"3 - 4",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"1 - 4",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"2 - 1",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"1 - 2",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"1 - 1",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"3 - 0",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"3 - 4",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"2 - 0",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"2 - 0",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"1 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"6 - 2",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"3 - 3",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 2",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"3 - 4",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"2 - 1",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"0 - 0",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"3 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"3 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"1 - 0",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"0 - 0",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"1 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"4 - 1",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"1 - 0",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"3 - 1",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"0 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"0 - 2",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"3 - 0",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"2 - 5",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"2 - 0",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"2 - 2",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"2 - 2",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"1 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"0 - 1",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"2 - 0",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"0 - 0",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"3 - 3",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"4 - 1",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"1 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"0 - 3",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"1 - 1",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"3 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"2 - 4",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"4 - 2",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"0 - 2",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"1 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"1 - 3",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"2 - 3",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"0 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"1 - 1",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 0",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"0 - 4",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"0 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"2 - 1",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"1 - 2",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"2 - 1",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"4 - 2",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 0",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"1 - 1",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"2 - 2",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"0 - 0",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"0 - 0",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"2 - 0",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Piast Gliwice",
+        "Score":"0 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"2 - 1",
+        "AwayTeam":"Cracovia Kraków"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 2",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"2 - 1",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"1 - 0",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"3 - 4",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"1 - 0",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"2 - 0",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"1 - 2",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"0 - 3",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"2 - 1",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"1 - 1",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"4 - 1",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"5 - 1",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 1",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"3 - 2",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"3 - 1",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"2 - 2",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 0",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Legia Warsaw",
+        "Score":"4 - 1",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Katowice",
+        "Score":"3 - 2",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 2",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Korona Kielce",
+        "Score":"3 - 0",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"3 - 1",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"1 - 1",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"5 - 1",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"2 - 1",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"2 - 0",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"2 - 0",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"0 - 1",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"2 - 2",
+        "AwayTeam":"Lech Poznań"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"1 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"0 - 1",
+        "AwayTeam":"Górnik Zabrze"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Pogoń Szczecin",
+        "Score":"2 - 0",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"2 - 3",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"3 - 1",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"1 - 2",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Katowice",
+        "Score":"0 - 1",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Motor Lublin",
+        "Score":"3 - 0",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"3 - 2",
+        "AwayTeam":"Radomiak Radom"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"2 - 4",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"0 - 1",
+        "AwayTeam":"Raków Częst."
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Górnik Zabrze",
+        "Score":"3 - 2",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"2 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"2 - 1",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"1 - 2",
+        "AwayTeam":"Pogoń Szczecin"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Cracovia Kraków",
+        "Score":"1 - 0",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"1 - 1",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"3 - 0",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Jagiellonia Białystok",
+        "Score":"3 - 2",
+        "AwayTeam":"Widzew Lodz"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"1 - 0",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"1 - 1",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"3 - 1",
+        "AwayTeam":"Nieciecza"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Lechia Gdańsk",
+        "Score":"1 - 1",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"1 - 1",
+        "AwayTeam":"Katowice"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"0 - 1",
+        "AwayTeam":"Jagiellonia Białystok"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Arka Gdynia",
+        "Score":"1 - 0",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"2 - 1",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"1 - 0",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"1 - 1",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"2 - 0",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Raków Częst.",
+        "Score":"1 - 2",
+        "AwayTeam":"Wisła Płock"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"2 - 0",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Nieciecza",
+        "Score":"1 - 1",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"3 - 1",
+        "AwayTeam":"Legia Warsaw"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Radomiak Radom",
+        "Score":"3 - 1",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"4 - 0",
+        "AwayTeam":"Arka Gdynia"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"2 - 2",
+        "AwayTeam":"Motor Lublin"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Lech Poznań",
+        "Score":"1 - 2",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"2 - 2",
+        "AwayTeam":"Piast Gliwice"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Wisła Płock",
+        "Score":"2 - 1",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"6 - 2",
+        "AwayTeam":"Lechia Gdańsk"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Zaglebie Lubin",
+        "Score":"1 - 1",
+        "AwayTeam":"Korona Kielce"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Katowice",
+        "Score":"2 - 2",
+        "AwayTeam":"Zaglebie Lubin"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Widzew Lodz",
+        "Score":"1 - 0",
+        "AwayTeam":"Zaglebie Lubin"
+    }
+]

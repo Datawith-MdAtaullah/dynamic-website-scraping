@@ -1,0 +1,170 @@
+[
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Macarthur",
+        "Score":"2 - 1",
+        "AwayTeam":"Adelaide United"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Adelaide United",
+        "Score":"2 - 1",
+        "AwayTeam":"Sydney FC"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Auckland",
+        "Score":"1 - 0",
+        "AwayTeam":"Western Sydney Wanderers"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Melbourne Victory",
+        "Score":"0 - 0",
+        "AwayTeam":"Auckland"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Brisbane Roar",
+        "Score":"0 - 0",
+        "AwayTeam":"Melbourne City"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Wellington Phoenix",
+        "Score":"2 - 1",
+        "AwayTeam":"Brisbane Roar"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Brisbane Roar",
+        "Score":"1 - 0",
+        "AwayTeam":"Macarthur"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Sydney FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Central Coast Mariners"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Central Coast Mariners",
+        "Score":"3 - 2",
+        "AwayTeam":"Newcastle Jets"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Macarthur",
+        "Score":"2 - 1",
+        "AwayTeam":"Adelaide United"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Brisbane Roar",
+        "Score":"1 - 0",
+        "AwayTeam":"Macarthur"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Brisbane Roar",
+        "Score":"0 - 0",
+        "AwayTeam":"Melbourne City"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Melbourne City",
+        "Score":"4 - 0",
+        "AwayTeam":"Perth Glory"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Western Sydney Wanderers",
+        "Score":"1 - 1",
+        "AwayTeam":"Melbourne City"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Perth Glory",
+        "Score":"0 - 2",
+        "AwayTeam":"Melbourne Victory"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Newcastle Jets",
+        "Score":"5 - 2",
+        "AwayTeam":"Melbourne Victory"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Melbourne Victory",
+        "Score":"0 - 0",
+        "AwayTeam":"Auckland"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Newcastle Jets",
+        "Score":"5 - 2",
+        "AwayTeam":"Melbourne Victory"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Central Coast Mariners",
+        "Score":"3 - 2",
+        "AwayTeam":"Newcastle Jets"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Perth Glory",
+        "Score":"0 - 2",
+        "AwayTeam":"Melbourne Victory"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Melbourne City",
+        "Score":"4 - 0",
+        "AwayTeam":"Perth Glory"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Perth Glory",
+        "Score":"2 - 2",
+        "AwayTeam":"Wellington Phoenix"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Sydney FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Central Coast Mariners"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Adelaide United",
+        "Score":"2 - 1",
+        "AwayTeam":"Sydney FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Wellington Phoenix",
+        "Score":"2 - 1",
+        "AwayTeam":"Brisbane Roar"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Perth Glory",
+        "Score":"2 - 2",
+        "AwayTeam":"Wellington Phoenix"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Auckland",
+        "Score":"1 - 0",
+        "AwayTeam":"Western Sydney Wanderers"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Western Sydney Wanderers",
+        "Score":"1 - 1",
+        "AwayTeam":"Melbourne City"
+    }
+]

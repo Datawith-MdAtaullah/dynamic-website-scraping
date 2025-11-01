@@ -1,0 +1,1214 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"1 - 0",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Alaves",
+        "Score":"0 - 0",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Alaves",
+        "Score":"3 - 1",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 0",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Getafe",
+        "Score":"1 - 1",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Alaves",
+        "Score":"1 - 2",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Alaves",
+        "Score":"1 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Betis",
+        "Score":"1 - 0",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Alaves",
+        "Score":"2 - 1",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Betis",
+        "Score":"0 - 2",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"1 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"5 - 2",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"3 - 2",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"2 - 0",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Alaves",
+        "Score":"1 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"1 - 1",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Espanol",
+        "Score":"2 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Elche",
+        "Score":"0 - 0",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"2 - 1",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"1 - 0",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"1 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Valencia",
+        "Score":"2 - 0",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Betis",
+        "Score":"1 - 2",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"1 - 0",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"3 - 2",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Betis",
+        "Score":"0 - 2",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"2 - 2",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Espanol",
+        "Score":"1 - 2",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Betis",
+        "Score":"2 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Betis",
+        "Score":"3 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Levante",
+        "Score":"2 - 2",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Betis",
+        "Score":"1 - 2",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"Betis",
+        "Score":"1 - 0",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Elche",
+        "Score":"1 - 1",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"2 - 3",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Elche",
+        "Score":"2 - 1",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"1 - 1",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"27-08-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 1",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Celta",
+        "Score":"0 - 2",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Espanol",
+        "Score":"1 - 0",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Elche",
+        "Score":"0 - 0",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Alaves",
+        "Score":"3 - 1",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Elche",
+        "Score":"2 - 1",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"1 - 1",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Elche",
+        "Score":"1 - 0",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"2 - 2",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Elche",
+        "Score":"2 - 0",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"1 - 1",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Elche",
+        "Score":"1 - 1",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Espanol",
+        "Score":"1 - 0",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"0 - 2",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Espanol",
+        "Score":"1 - 2",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Girona",
+        "Score":"0 - 0",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Espanol",
+        "Score":"2 - 2",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"2 - 0",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Espanol",
+        "Score":"3 - 2",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Espanol",
+        "Score":"1 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"2 - 2",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Espanol",
+        "Score":"2 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"2 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"4 - 1",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"2 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"1 - 3",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"3 - 0",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"6 - 0",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Levante",
+        "Score":"2 - 3",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Getafe",
+        "Score":"2 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"0 - 1",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Getafe",
+        "Score":"0 - 1",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"2 - 1",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Getafe",
+        "Score":"1 - 1",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Getafe",
+        "Score":"1 - 1",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"3 - 0",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Getafe",
+        "Score":"2 - 0",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Valencia",
+        "Score":"3 - 0",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"1 - 2",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Celta",
+        "Score":"0 - 2",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"31-10-2025",
+        "HomeTeam":"Getafe",
+        "Score":"2 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Girona",
+        "Score":"3 - 3",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"2 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Girona",
+        "Score":"2 - 1",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"Girona",
+        "Score":"0 - 0",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"1 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Girona",
+        "Score":"0 - 4",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Girona",
+        "Score":"0 - 2",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"5 - 0",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Girona",
+        "Score":"1 - 3",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 1",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Levante",
+        "Score":"0 - 3",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"0 - 2",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Getafe",
+        "Score":"1 - 1",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Levante",
+        "Score":"1 - 4",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Girona",
+        "Score":"0 - 4",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Levante",
+        "Score":"2 - 2",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Elche",
+        "Score":"2 - 0",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Levante",
+        "Score":"2 - 3",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Alaves",
+        "Score":"2 - 1",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 1",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"1 - 3",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"2 - 1",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 0",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"1 - 0",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 1",
+        "AwayTeam":"Ath Madrid"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Espanol",
+        "Score":"3 - 2",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"2 - 1",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"1 - 1",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Mallorca",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"2 - 3",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"1 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"2 - 1",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Betis",
+        "Score":"2 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"1 - 1",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"2 - 1",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"2 - 0",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Espanol",
+        "Score":"1 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"1 - 0",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"1 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Girona",
+        "Score":"3 - 3",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"0 - 2",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"0 - 2",
+        "AwayTeam":"Levante"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Valencia",
+        "Score":"1 - 2",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"1 - 3",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Elche",
+        "Score":"1 - 0",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Getafe",
+        "Score":"2 - 0",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"1 - 0",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"0 - 3",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"2 - 0",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Getafe",
+        "Score":"0 - 1",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"3 - 1",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"5 - 2",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Levante",
+        "Score":"1 - 4",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"2 - 0",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"1 - 2",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"2 - 1",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"0 - 3",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"1 - 0",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"2 - 1",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"1 - 3",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"4 - 1",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"0 - 1",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"1 - 2",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Alaves",
+        "Score":"1 - 2",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"2 - 2",
+        "AwayTeam":"Elche"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Girona",
+        "Score":"0 - 2",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"1 - 2",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"3 - 2",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"2 - 1",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"0 - 1",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"2 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"1 - 0",
+        "AwayTeam":"Mallorca"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Betis",
+        "Score":"3 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"1 - 2",
+        "AwayTeam":"Real Madrid"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Oviedo",
+        "Score":"1 - 0",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"2 - 2",
+        "AwayTeam":"Espanol"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Valencia",
+        "Score":"1 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Valencia",
+        "Score":"0 - 2",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Alaves",
+        "Score":"0 - 0",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Girona",
+        "Score":"2 - 1",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Valencia",
+        "Score":"1 - 2",
+        "AwayTeam":"Oviedo"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Espanol",
+        "Score":"2 - 2",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Valencia",
+        "Score":"2 - 0",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"FC Barcelona",
+        "Score":"6 - 0",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Valencia",
+        "Score":"3 - 0",
+        "AwayTeam":"Getafe"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"1 - 0",
+        "AwayTeam":"Valencia"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Valencia",
+        "Score":"1 - 1",
+        "AwayTeam":"Sociedad"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"1 - 0",
+        "AwayTeam":"Alaves"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Levante",
+        "Score":"0 - 3",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Sociedad",
+        "Score":"0 - 1",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"0 - 1",
+        "AwayTeam":"Sevilla"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"3 - 2",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"1 - 1",
+        "AwayTeam":"Celta"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Osasuna",
+        "Score":"2 - 0",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Vallecano",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Barcelona"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Athletic Club",
+        "Score":"1 - 0",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Girona",
+        "Score":"1 - 3",
+        "AwayTeam":"Vallecano"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Valencia",
+        "Score":"0 - 2",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"2 - 2",
+        "AwayTeam":"Betis"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Real Madrid",
+        "Score":"3 - 1",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"1 - 0",
+        "AwayTeam":"Athletic Club"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Sevilla",
+        "Score":"1 - 2",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"2 - 1",
+        "AwayTeam":"Osasuna"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Ath Madrid",
+        "Score":"2 - 0",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Celta",
+        "Score":"1 - 1",
+        "AwayTeam":"Villarreal"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"5 - 0",
+        "AwayTeam":"Girona"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Villarreal",
+        "Score":"2 - 0",
+        "AwayTeam":"Oviedo"
+    }
+]

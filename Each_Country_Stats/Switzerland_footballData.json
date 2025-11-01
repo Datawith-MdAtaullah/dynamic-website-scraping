@@ -1,0 +1,794 @@
+[
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Basel",
+        "Score":"2 - 0",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"5 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Basel",
+        "Score":"3 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"0 - 3",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Basel",
+        "Score":"1 - 2",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"1 - 3",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"3 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Basel",
+        "Score":"4 - 1",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Basel",
+        "Score":"2 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"2 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"2 - 0",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"1 - 0",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"2 - 4",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"2 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"1 - 1",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"3 - 1",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"3 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Sion",
+        "Score":"4 - 0",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"3 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"3 - 1",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"4 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"1 - 3",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"1 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Zürich",
+        "Score":"0 - 4",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"2 - 1",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"3 - 3",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"5 - 0",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"0 - 1",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"3 - 0",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"2 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"3 - 1",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"1 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"2 - 2",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Basel",
+        "Score":"2 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"2 - 3",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"1 - 3",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"5 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"2 - 2",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"5 - 0",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 0",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"1 - 1",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"3 - 1",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"1 - 2",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"1 - 2",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"2 - 1",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"3 - 2",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"2 - 0",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"2 - 2",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"2 - 2",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"3 - 3",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Basel",
+        "Score":"1 - 2",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"1 - 2",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"0 - 1",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"1 - 1",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"2 - 3",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"1 - 3",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"3 - 1",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"0 - 3",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 2",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Zürich",
+        "Score":"2 - 1",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"1 - 4",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"3 - 1",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Sion",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"0 - 1",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"3 - 3",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 0",
+        "AwayTeam":"Lausanne Sport"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 2",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"2 - 3",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Sion",
+        "Score":"0 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"0 - 0",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Sion",
+        "Score":"4 - 0",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Zürich",
+        "Score":"2 - 3",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Sion",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"5 - 0",
+        "AwayTeam":"Grasshopper"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"1 - 2",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Zürich",
+        "Score":"3 - 1",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"1 - 2",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"0 - 1",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"5 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"1 - 4",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"2 - 1",
+        "AwayTeam":"Basel"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"FC Thun",
+        "Score":"3 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"2 - 2",
+        "AwayTeam":"Lucerne"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Basel",
+        "Score":"3 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"2 - 4",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Servette FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"2 - 3",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"1 - 3",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"2 - 2",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"St. Gallen",
+        "Score":"5 - 0",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"1 - 1",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"3 - 2",
+        "AwayTeam":"Winterthur"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"3 - 3",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Zürich",
+        "Score":"2 - 3",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"1 - 2",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"5 - 0",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"4 - 2",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"1 - 2",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"3 - 1",
+        "AwayTeam":"FC Lugano"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"0 - 0",
+        "AwayTeam":"Sion"
+    },
+    {
+        "Date":"06-08-2025",
+        "HomeTeam":"Basel",
+        "Score":"4 - 1",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"1 - 1",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Young Boys",
+        "Score":"3 - 1",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Basel",
+        "Score":"2 - 0",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Zürich",
+        "Score":"2 - 3",
+        "AwayTeam":"Young Boys"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"FC Lugano",
+        "Score":"1 - 0",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Grasshopper",
+        "Score":"3 - 0",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Zürich",
+        "Score":"3 - 1",
+        "AwayTeam":"St. Gallen"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Zürich",
+        "Score":"2 - 1",
+        "AwayTeam":"Servette FC"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Winterthur",
+        "Score":"1 - 3",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Zürich",
+        "Score":"0 - 4",
+        "AwayTeam":"FC Thun"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Lausanne Sport",
+        "Score":"1 - 2",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Lucerne",
+        "Score":"1 - 1",
+        "AwayTeam":"Zürich"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Zürich",
+        "Score":"2 - 3",
+        "AwayTeam":"Sion"
+    }
+]

@@ -1,0 +1,938 @@
+[
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"3 - 3",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"3 - 1",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 2",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 0",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"1 - 2",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"4 - 1",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 0",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 5",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"FC København",
+        "Score":"2 - 3",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"0 - 0",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 2",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"1 - 1",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 4",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"3 - 3",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"0 - 2",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"5 - 1",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 0",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"2 - 1",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"1 - 3",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"2 - 0",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"0 - 2",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"2 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"0 - 1",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"3 - 0",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FC København",
+        "Score":"0 - 0",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"3 - 1",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FC København",
+        "Score":"1 - 1",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"1 - 2",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"FC København",
+        "Score":"3 - 3",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"2 - 1",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"1 - 5",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"FC København",
+        "Score":"1 - 1",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 3",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"FC København",
+        "Score":"2 - 3",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"0 - 2",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FC København",
+        "Score":"2 - 0",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"2 - 3",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"24-10-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 0",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 2",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"3 - 0",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 0",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 0",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 3",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"4 - 2",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"3 - 2",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"0 - 1",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"2 - 3",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"0 - 4",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"3 - 0",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"0 - 2",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"2 - 1",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"3 - 2",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"1 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"4 - 1",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"1 - 0",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"3 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"3 - 3",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"0 - 2",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"2 - 3",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"0 - 4",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"5 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FC København",
+        "Score":"1 - 1",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"2 - 1",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"2 - 0",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 0",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"1 - 3",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"4 - 2",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"0 - 2",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"3 - 3",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"0 - 0",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"6 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"3 - 3",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 4",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"1 - 2",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 1",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"5 - 1",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"3 - 2",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"2 - 1",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"FC København",
+        "Score":"1 - 1",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 5",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"3 - 2",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"4 - 0",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"3 - 1",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"3 - 3",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 0",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"2 - 1",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"3 - 0",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"0 - 1",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"1 - 5",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"1 - 0",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"0 - 2",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"3 - 2",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 2",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"1 - 1",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"1 - 2",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"3 - 1",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"3 - 1",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"1 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"FC København",
+        "Score":"3 - 3",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"2 - 1",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"4 - 2",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"2 - 3",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"4 - 2",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"3 - 0",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"3 - 0",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"1 - 1",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"1 - 2",
+        "AwayTeam":"FC København"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"2 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"12-09-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"0 - 1",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"2 - 0",
+        "AwayTeam":"Brøndby IF"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"3 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"1 - 0",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"3 - 2",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"6 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sønderjyske Fodbold",
+        "Score":"1 - 1",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"1 - 2",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"5 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"0 - 3",
+        "AwayTeam":"FC Nordsjaelland"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Silkeborg IF",
+        "Score":"1 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"2 - 2",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Fredericia",
+        "Score":"1 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"1 - 2",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"AGF Aarhus",
+        "Score":"1 - 0",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"0 - 2",
+        "AwayTeam":"Midtjylland"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"2 - 1",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"4 - 0",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"FC København",
+        "Score":"2 - 0",
+        "AwayTeam":"Vejle Boldklub"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"1 - 1",
+        "AwayTeam":"Randers FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"FC København",
+        "Score":"0 - 0",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"1 - 2",
+        "AwayTeam":"Odense BK"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Randers FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"2 - 1",
+        "AwayTeam":"Fredericia"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Midtjylland",
+        "Score":"2 - 0",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"1 - 2",
+        "AwayTeam":"AGF Aarhus"
+    },
+    {
+        "Date":"29-08-2025",
+        "HomeTeam":"Vejle Boldklub",
+        "Score":"1 - 2",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"FC Nordsjaelland",
+        "Score":"1 - 0",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"2 - 3",
+        "AwayTeam":"Silkeborg IF"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"1 - 0",
+        "AwayTeam":"Sønderjyske Fodbold"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Brøndby IF",
+        "Score":"0 - 2",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Odense BK",
+        "Score":"3 - 1",
+        "AwayTeam":"Viborg FF"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Viborg FF",
+        "Score":"2 - 3",
+        "AwayTeam":"FC København"
+    }
+]

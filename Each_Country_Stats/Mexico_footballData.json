@@ -1,0 +1,1622 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"América",
+        "Score":"2 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"2 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"América",
+        "Score":"3 - 0",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"América",
+        "Score":"4 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"0 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"2 - 2",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"América",
+        "Score":"1 - 2",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"América",
+        "Score":"2 - 0",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Atlas",
+        "Score":"2 - 4",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"1 - 3",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"América",
+        "Score":"1 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"América",
+        "Score":"3 - 1",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Juárez",
+        "Score":"1 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"4 - 1",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Atlas",
+        "Score":"2 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Atlas",
+        "Score":"3 - 1",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Atlas",
+        "Score":"3 - 2",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atlas",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Atlas",
+        "Score":"2 - 4",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"3 - 3",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Atlas",
+        "Score":"0 - 3",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Atlas",
+        "Score":"3 - 3",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Puebla",
+        "Score":"2 - 3",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"3 - 4",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"0 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"1 - 4",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"1 - 1",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"1 - 3",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Puebla",
+        "Score":"0 - 2",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"1 - 2",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"4 - 3",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"0 - 1",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Leon",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"2 - 0",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"2 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"2 - 0",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"2 - 2",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"3 - 2",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"0 - 1",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"1 - 2",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"1 - 0",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"3 - 2",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"1 - 2",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"4 - 1",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Atlas",
+        "Score":"3 - 3",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"0 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"4 - 1",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"1 - 0",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"2 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 2",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Puebla",
+        "Score":"0 - 2",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"3 - 1",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"0 - 3",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"0 - 0",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"América",
+        "Score":"1 - 2",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"1 - 2",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"3 - 3",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"1 - 2",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"1 - 0",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"4 - 3",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 0",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Juárez",
+        "Score":"4 - 4",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"4 - 2",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Juárez",
+        "Score":"2 - 2",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Atlas",
+        "Score":"3 - 1",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Juárez",
+        "Score":"2 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Juárez",
+        "Score":"3 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"3 - 2",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 1",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Juárez",
+        "Score":"1 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Juárez",
+        "Score":"2 - 1",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"1 - 2",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Juárez",
+        "Score":"0 - 2",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"1 - 1",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"1 - 0",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Juárez",
+        "Score":"1 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Atlas",
+        "Score":"2 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"2 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Leon",
+        "Score":"2 - 4",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Juárez",
+        "Score":"2 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Leon",
+        "Score":"2 - 2",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"5 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"0 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Leon",
+        "Score":"3 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 1",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"0 - 1",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 3",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"4 - 1",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 0",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Leon",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"2 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 1",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Leon",
+        "Score":"2 - 2",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"1 - 4",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Juárez",
+        "Score":"1 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"3 - 2",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"1 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"0 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"2 - 0",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"4 - 2",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"1 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"2 - 2",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Toluca",
+        "Score":"6 - 2",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"2 - 2",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"0 - 1",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Puebla",
+        "Score":"2 - 4",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"3 - 0",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"3 - 2",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 3",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"0 - 1",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"3 - 0",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"3 - 4",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"5 - 3",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"0 - 1",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Atlas",
+        "Score":"3 - 2",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"3 - 1",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 0",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 1",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"3 - 0",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"3 - 0",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"0 - 1",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 1",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 1",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"3 - 1",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 1",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Toluca",
+        "Score":"2 - 2",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Juárez",
+        "Score":"2 - 2",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"0 - 1",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Puebla",
+        "Score":"2 - 2",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"0 - 2",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"0 - 1",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"América",
+        "Score":"2 - 0",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 1",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"0 - 2",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Atlas",
+        "Score":"0 - 3",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"1 - 0",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"2 - 3",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"3 - 0",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Juárez",
+        "Score":"4 - 4",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"América",
+        "Score":"2 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Puebla",
+        "Score":"4 - 3",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"3 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Puebla",
+        "Score":"0 - 2",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Puebla",
+        "Score":"2 - 2",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"1 - 0",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Puebla",
+        "Score":"2 - 4",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"0 - 0",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Puebla",
+        "Score":"0 - 2",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"7 - 0",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Puebla",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Puebla",
+        "Score":"2 - 3",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Leon",
+        "Score":"1 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"1 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 2",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"América",
+        "Score":"4 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Juárez",
+        "Score":"3 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 1",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"1 - 4",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"0 - 0",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Toluca",
+        "Score":"1 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 1",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"0 - 2",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"2 - 3",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"3 - 0",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"3 - 1",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"1 - 0",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Toluca",
+        "Score":"4 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"3 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"0 - 2",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"2 - 2",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"0 - 2",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"0 - 1",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Leon",
+        "Score":"3 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"3 - 3",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"América",
+        "Score":"1 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"0 - 2",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Necaxa",
+        "Score":"3 - 1",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"1 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"3 - 1",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"2 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"América",
+        "Score":"3 - 0",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Monterrey",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"1 - 0",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"1 - 4",
+        "AwayTeam":"Atlético San Luis"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atlas",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"0 - 1",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Juárez",
+        "Score":"2 - 1",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"3 - 2",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"1 - 0",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Puebla",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos Laguna"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"2 - 4",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"3 - 0",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"2 - 0",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"1 - 2",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"5 - 3",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Querétaro",
+        "Score":"0 - 2",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlas"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Pumas UNAM",
+        "Score":"1 - 1",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"0 - 0",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"0 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"0 - 1",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"1 - 3",
+        "AwayTeam":"América"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"7 - 0",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 4",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"1 - 0",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Tigres UANL",
+        "Score":"2 - 0",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"0 - 0",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Puebla",
+        "Score":"4 - 3",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"2 - 2",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"2 - 0",
+        "AwayTeam":"Cruz Azul"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"1 - 0",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"5 - 0",
+        "AwayTeam":"Leon"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"1 - 1",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"3 - 0",
+        "AwayTeam":"Necaxa"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"3 - 3",
+        "AwayTeam":"Guadalajara"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Pachuca",
+        "Score":"0 - 2",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Mazatlán",
+        "Score":"2 - 2",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"1 - 1",
+        "AwayTeam":"Juárez"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"América",
+        "Score":"3 - 1",
+        "AwayTeam":"Tijuana"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"1 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Toluca",
+        "Score":"2 - 2",
+        "AwayTeam":"Pachuca"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Tijuana",
+        "Score":"0 - 0",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Toluca",
+        "Score":"4 - 0",
+        "AwayTeam":"Querétaro"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Leon",
+        "Score":"2 - 4",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 1",
+        "AwayTeam":"Mazatlán"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Toluca",
+        "Score":"6 - 2",
+        "AwayTeam":"Monterrey"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Guadalajara",
+        "Score":"0 - 3",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 1",
+        "AwayTeam":"Puebla"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Atlético San Luis",
+        "Score":"1 - 3",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Cruz Azul",
+        "Score":"1 - 0",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Toluca",
+        "Score":"1 - 1",
+        "AwayTeam":"Pumas UNAM"
+    },
+    {
+        "Date":"12-08-2025",
+        "HomeTeam":"Juárez",
+        "Score":"0 - 2",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 4",
+        "AwayTeam":"Tigres UANL"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Santos Laguna",
+        "Score":"2 - 4",
+        "AwayTeam":"Toluca"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Toluca",
+        "Score":"3 - 1",
+        "AwayTeam":"Necaxa"
+    }
+]

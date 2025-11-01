@@ -1,0 +1,2450 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Anyang",
+        "Score":"4 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 2",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Anyang",
+        "Score":"3 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Anyang",
+        "Score":"4 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 2",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 1",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 3",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 2",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"3 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Seoul",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 3",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"3 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Daegu",
+        "Score":"3 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 2",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Seoul",
+        "Score":"2 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Anyang",
+        "Score":"4 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"3 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"27-05-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 4",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Daegu",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"09-04-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"2 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Seoul",
+        "Score":"3 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"0 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Daegu",
+        "Score":"3 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"3 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Anyang",
+        "Score":"3 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"3 - 2",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"2 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 1",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"27-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 3",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Suwon",
+        "Score":"3 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 1",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"0 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Seoul",
+        "Score":"2 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"0 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Seoul",
+        "Score":"4 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"3 - 2",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"2 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"2 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"3 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 3",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 3",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 4",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 3",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"0 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Anyang",
+        "Score":"4 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"3 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"2 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"3 - 2",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"6 - 2",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"3 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 4",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"2 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"0 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Suwon",
+        "Score":"3 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"2 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"0 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Seoul",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 3",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Seoul",
+        "Score":"3 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 4",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 2",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 3",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"0 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"3 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 2",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"09-04-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 3",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"0 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 2",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"3 - 4",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Daegu",
+        "Score":"2 - 2",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"3 - 2",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 3",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"27-05-2025",
+        "HomeTeam":"Suwon",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 0",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 3",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Daegu",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"2 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 3",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 3",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 2",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 3",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"27-05-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 4",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"0 - 0",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 1",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Seoul",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 2",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"0 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 2",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 1",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"2 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 2",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"2 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"3 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 5",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 3",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Seoul",
+        "Score":"4 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"27-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 3",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 2",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"0 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 0",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"2 - 3",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 2",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"0 - 0",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"0 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Seoul",
+        "Score":"4 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 2",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Seoul",
+        "Score":"3 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"3 - 2",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 2",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Seoul",
+        "Score":"3 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"6 - 2",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"Seoul",
+        "Score":"2 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"3 - 2",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Seoul",
+        "Score":"4 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"1 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 1",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 3",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 3",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Anyang",
+        "Score":"1 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Seoul",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 2",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Seoul",
+        "Score":"2 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Seoul",
+        "Score":"3 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Suwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Seoul",
+        "Score":"0 - 0",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Seoul",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"2 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"2 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"3 - 4",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 0",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 4",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Daegu",
+        "Score":"3 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"3 - 2",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Suwon",
+        "Score":"4 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"3 - 2",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 3",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 5",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 2",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"1 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"27-05-2025",
+        "HomeTeam":"Suwon",
+        "Score":"0 - 1",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Suwon",
+        "Score":"3 - 0",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"2 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Suwon",
+        "Score":"2 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"3 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Suwon",
+        "Score":"3 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Suwon",
+        "Score":"0 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"1 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Daegu",
+        "Score":"3 - 1",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"0 - 0",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 1",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"3 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Daegu",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 0",
+        "AwayTeam":"Anyang"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 2",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Seoul",
+        "Score":"3 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Suwon",
+        "Score":"4 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 3",
+        "AwayTeam":"Suwon"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"2 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 2",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Seoul",
+        "Score":"1 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 2",
+        "AwayTeam":"Daegu"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Jeonbuk Motors",
+        "Score":"3 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Gwangju",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"3 - 2",
+        "AwayTeam":"Gimcheon Sangmu"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Gangwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Jeju United",
+        "Score":"1 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 1",
+        "AwayTeam":"Pohang Steelers"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"3 - 0",
+        "AwayTeam":"Gwangju"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Gimcheon Sangmu",
+        "Score":"2 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"Anyang",
+        "Score":"0 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 2",
+        "AwayTeam":"Gangwon"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Daegu",
+        "Score":"0 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 0",
+        "AwayTeam":"Seoul"
+    },
+    {
+        "Date":"01-04-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 3",
+        "AwayTeam":"Daejeon Citizen"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Pohang Steelers",
+        "Score":"1 - 0",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Suwon",
+        "Score":"1 - 1",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"2 - 0",
+        "AwayTeam":"Jeju United"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"1 - 0",
+        "AwayTeam":"Jeonbuk Motors"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Daejeon Citizen",
+        "Score":"0 - 2",
+        "AwayTeam":"Ulsan HD"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Ulsan HD",
+        "Score":"0 - 1",
+        "AwayTeam":"Anyang"
+    }
+]

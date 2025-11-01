@@ -1,0 +1,722 @@
+[
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"0 - 1",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"1 - 2",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"0 - 1",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"4 - 0",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"2 - 0",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"2 - 0",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"0 - 0",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"0 - 1",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"0 - 2",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Hearts",
+        "Score":"2 - 0",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Celtic",
+        "Score":"4 - 0",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Hearts",
+        "Score":"3 - 1",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Dundee",
+        "Score":"2 - 0",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Celtic",
+        "Score":"3 - 2",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Celtic",
+        "Score":"0 - 0",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"1 - 2",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Rangers",
+        "Score":"0 - 0",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Celtic",
+        "Score":"3 - 0",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"0 - 2",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Celtic",
+        "Score":"1 - 0",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"2 - 1",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Dundee",
+        "Score":"2 - 0",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"4 - 0",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"1 - 0",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Dundee",
+        "Score":"3 - 2",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Dundee",
+        "Score":"1 - 1",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dundee",
+        "Score":"0 - 2",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"0 - 0",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Rangers",
+        "Score":"1 - 1",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Dundee",
+        "Score":"1 - 2",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"2 - 0",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"3 - 1",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Rangers",
+        "Score":"2 - 2",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"1 - 1",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"0 - 2",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"2 - 0",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"3 - 3",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Dundee",
+        "Score":"0 - 2",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"2 - 3",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"2 - 2",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Celtic",
+        "Score":"4 - 0",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"2 - 1",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"1 - 2",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"1 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Hearts",
+        "Score":"3 - 0",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"2 - 2",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"1 - 2",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"0 - 1",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Livingston",
+        "Score":"3 - 1",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"2 - 2",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"2 - 2",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Hearts",
+        "Score":"3 - 1",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"0 - 3",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Hearts",
+        "Score":"1 - 0",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Hearts",
+        "Score":"3 - 0",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Rangers",
+        "Score":"0 - 2",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Livingston",
+        "Score":"1 - 2",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Hearts",
+        "Score":"3 - 3",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"2 - 3",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Hearts",
+        "Score":"2 - 0",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"0 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"1 - 2",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"4 - 0",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Hearts",
+        "Score":"1 - 0",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Celtic",
+        "Score":"0 - 0",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"2 - 2",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"3 - 3",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"1 - 1",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"2 - 2",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Dundee",
+        "Score":"1 - 2",
+        "AwayTeam":"Hibernian"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"0 - 1",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Rangers",
+        "Score":"3 - 1",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"0 - 3",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"2 - 0",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"0 - 2",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"1 - 2",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"2 - 2",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"0 - 0",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"2 - 2",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"2 - 2",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Livingston",
+        "Score":"1 - 2",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"4 - 0",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"1 - 1",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Livingston",
+        "Score":"1 - 2",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Dundee",
+        "Score":"3 - 2",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Aberdeen",
+        "Score":"0 - 0",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Livingston",
+        "Score":"1 - 2",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Celtic",
+        "Score":"3 - 0",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Livingston",
+        "Score":"3 - 1",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"2 - 2",
+        "AwayTeam":"Livingston"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"2 - 0",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Livingston",
+        "Score":"1 - 2",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"1 - 2",
+        "AwayTeam":"Falkirk"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Celtic",
+        "Score":"3 - 2",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"2 - 0",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Dundee",
+        "Score":"1 - 1",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"2 - 2",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Hearts",
+        "Score":"3 - 3",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"0 - 0",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"1 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"0 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Rangers",
+        "Score":"3 - 1",
+        "AwayTeam":"Kilmarnock"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Rangers",
+        "Score":"2 - 2",
+        "AwayTeam":"Dundee United"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"1 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Livingston",
+        "Score":"1 - 2",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Rangers",
+        "Score":"0 - 2",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Rangers",
+        "Score":"0 - 0",
+        "AwayTeam":"Celtic"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"1 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Rangers",
+        "Score":"1 - 1",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Motherwell",
+        "Score":"1 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"2 - 2",
+        "AwayTeam":"Hearts"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Dundee United",
+        "Score":"3 - 1",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"0 - 1",
+        "AwayTeam":"Aberdeen"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Kilmarnock",
+        "Score":"2 - 0",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"1 - 0",
+        "AwayTeam":"Dundee"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Falkirk",
+        "Score":"1 - 2",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Hibernian",
+        "Score":"1 - 1",
+        "AwayTeam":"St Mirren"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"1 - 1",
+        "AwayTeam":"Rangers"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"St Mirren",
+        "Score":"0 - 0",
+        "AwayTeam":"Motherwell"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Celtic",
+        "Score":"1 - 0",
+        "AwayTeam":"St Mirren"
+    }
+]

@@ -1,0 +1,6242 @@
+[
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"4 - 5",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"2 - 2",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"2 - 3",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"2 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"New York City",
+        "Score":"4 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"3 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"4 - 2",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"4 - 3",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 2",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"3 - 2",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 3",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"3 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Austin",
+        "Score":"3 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"3 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 2",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 4",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"1 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"5 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 1",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"3 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 4",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 2",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"3 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 3",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 4",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 3",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 2",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 6",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"0 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 2",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 0",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"3 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"3 - 2",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"0 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 4",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 0",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"3 - 0",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"0 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"2 - 3",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"New York RB",
+        "Score":"4 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"3 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 4",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"4 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"0 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"3 - 0",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 0",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"4 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"1 - 0",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 2",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 5",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 3",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 2",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"4 - 0",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"2 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"07-06-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 7",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"3 - 1",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 4",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 0",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"7 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 0",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 1",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"4 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"3 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"New York RB",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"0 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"0 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"0 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"0 - 0",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"3 - 0",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 4",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 2",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"3 - 3",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"4 - 2",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 0",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"1 - 2",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"4 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 5",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"30-09-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 5",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"New York City",
+        "Score":"0 - 4",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"3 - 0",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"4 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"0 - 0",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 5",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"3 - 0",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"09-07-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 2",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 4",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"5 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 2",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 3",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"0 - 3",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"3 - 3",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"4 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 4",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"0 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 0",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"2 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 2",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"1 - 0",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 4",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"2 - 2",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Dallas",
+        "Score":"3 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"4 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"3 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"3 - 3",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"10-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 2",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"New England",
+        "Score":"3 - 3",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 0",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 3",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 3",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"3 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"New York City",
+        "Score":"3 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"4 - 5",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"New York RB",
+        "Score":"0 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 2",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 3",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"3 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 4",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"3 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"5 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"3 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"4 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"0 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"0 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"0 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"4 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 6",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 4",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"07-06-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 7",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 2",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"0 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"2 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"6 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"4 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 2",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Dallas",
+        "Score":"3 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 1",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Dallas",
+        "Score":"3 - 4",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Dallas",
+        "Score":"3 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 3",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 4",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 4",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"3 - 3",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 2",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"5 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 4",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 3",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 4",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"3 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 3",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 2",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"0 - 3",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"3 - 4",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"3 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 3",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 3",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"0 - 3",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"3 - 3",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 2",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 3",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"1 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"3 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 2",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"0 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"03-03-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 4",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"4 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 2",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"3 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 4",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"3 - 3",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"1 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"3 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"3 - 3",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 2",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"New York RB",
+        "Score":"7 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 4",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"1 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"1 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"2 - 2",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 3",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"09-10-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"06-10-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 3",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 4",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 4",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 1",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"3 - 3",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 1",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"10-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"09-06-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"3 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"19-05-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"3 - 3",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 0",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"San Diego",
+        "Score":"3 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"5 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"3 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 1",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"4 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"3 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"2 - 4",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"0 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"3 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"4 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 3",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"2 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"2 - 2",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"3 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"0 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 5",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"3 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"5 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"3 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 0",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"1 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"3 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 3",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 2",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"0 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"7 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"1 - 2",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"3 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 3",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 0",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"0 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 2",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 2",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 3",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"New York RB",
+        "Score":"5 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"09-07-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 2",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"New England",
+        "Score":"3 - 3",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 3",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"3 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 0",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 2",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"0 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 2",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"0 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"0 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 2",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 3",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"New York City",
+        "Score":"0 - 4",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 0",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"New York City",
+        "Score":"3 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 3",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"0 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Dallas",
+        "Score":"3 - 4",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 2",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"03-07-2025",
+        "HomeTeam":"New York City",
+        "Score":"3 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"New York City",
+        "Score":"4 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 2",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"0 - 3",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"3 - 1",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"0 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 0",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"4 - 3",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"0 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"2 - 2",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"3 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"New York RB",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 3",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 2",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"New York RB",
+        "Score":"0 - 0",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 5",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"New York RB",
+        "Score":"5 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"New York RB",
+        "Score":"4 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 2",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"New York RB",
+        "Score":"7 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"4 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 2",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"0 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 1",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"New England",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 0",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Toronto",
+        "Score":"4 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 2",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"1 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"DC United",
+        "Score":"1 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"5 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"4 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 3",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 2",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 2",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 4",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"3 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"0 - 3",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 0",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 0",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"0 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"0 - 0",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"1 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"4 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"New York City",
+        "Score":"2 - 1",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"4 - 2",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"2 - 4",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 0",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"DC United",
+        "Score":"0 - 6",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 0",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"7 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"0 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"4 - 0",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"New York RB",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 0",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"0 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 2",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 3",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 2",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"2 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 2",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"0 - 0",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"2 - 1",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 3",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 2",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"4 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"2 - 4",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"3 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"0 - 4",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 3",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"0 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Toronto",
+        "Score":"3 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"4 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 4",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"3 - 3",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 4",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"3 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 3",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 4",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"23-10-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"3 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 2",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"3 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"22-09-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"18-09-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 4",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"1 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"0 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"2 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 3",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Dallas",
+        "Score":"1 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 3",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"2 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"2 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 2",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 3",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"4 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"4 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 3",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 4",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Austin",
+        "Score":"3 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"3 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"4 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 4",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"3 - 3",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"New England",
+        "Score":"0 - 0",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"3 - 3",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"0 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"4 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"3 - 5",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"6 - 1",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"4 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"0 - 1",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"4 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"0 - 4",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"2 - 4",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"1 - 1",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"01-09-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 0",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"3 - 4",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 3",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 5",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"2 - 4",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"2 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"5 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 3",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"3 - 0",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"San Diego",
+        "Score":"3 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"San Diego",
+        "Score":"3 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 1",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"1 - 3",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"24-02-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"28-10-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"0 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"New York City",
+        "Score":"1 - 2",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"12-10-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Austin",
+        "Score":"2 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"3 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 2",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"5 - 2",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 4",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"2 - 2",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"3 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"3 - 3",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 3",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"09-06-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"4 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 3",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"4 - 1",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"San Diego",
+        "Score":"3 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 1",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"0 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"5 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 0",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"3 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"4 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 2",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 2",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"4 - 2",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"5 - 2",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"3 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 3",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 2",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 1",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 4",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"09-06-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"3 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 3",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"3 - 3",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 2",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 0",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"3 - 5",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 4",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Dallas",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"3 - 3",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 1",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"1 - 2",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 2",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Austin",
+        "Score":"1 - 3",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 3",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"1 - 3",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"0 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"07-09-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 1",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 3",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"3 - 1",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 2",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Dallas",
+        "Score":"3 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"1 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 4",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"3 - 3",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"08-06-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"2 - 1",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"1 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"3 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"15-05-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"2 - 2",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 2",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"4 - 1",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 2",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"2 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"1 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"0 - 3",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 0",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Toronto",
+        "Score":"4 - 2",
+        "AwayTeam":"Orlando City SC"
+    },
+    {
+        "Date":"09-10-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Chicago Fire",
+        "Score":"2 - 2",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"Club Internacional de Fútbol Miami"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"New England",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Atlanta United",
+        "Score":"0 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"Columbus Crew"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Philadelphia Union",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Charlotte",
+        "Score":"2 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Nashville SC (MLS)",
+        "Score":"1 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"0 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlanta United"
+    },
+    {
+        "Date":"03-07-2025",
+        "HomeTeam":"New York City",
+        "Score":"3 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Toronto",
+        "Score":"3 - 0",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"25-06-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 1",
+        "AwayTeam":"New York RB"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 2",
+        "AwayTeam":"Charlotte"
+    },
+    {
+        "Date":"28-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 2",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 2",
+        "AwayTeam":"Nashville SC (MLS)"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"CF Montréal",
+        "Score":"1 - 6",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"14-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 1",
+        "AwayTeam":"Cincinnati"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"2 - 0",
+        "AwayTeam":"DC United"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 2",
+        "AwayTeam":"New England"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 1",
+        "AwayTeam":"New York City"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"0 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Club Internacional de Fútbol Miami",
+        "Score":"1 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"22-03-2025",
+        "HomeTeam":"New York RB",
+        "Score":"2 - 1",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Toronto",
+        "Score":"1 - 2",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Cincinnati",
+        "Score":"2 - 0",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"4 - 2",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"DC United",
+        "Score":"2 - 2",
+        "AwayTeam":"Toronto"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 0",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 2",
+        "AwayTeam":"Dallas"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"Orlando City SC",
+        "Score":"1 - 2",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"4 - 1",
+        "AwayTeam":"SJ Earthquakes"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Seattle Sounders FC",
+        "Score":"2 - 2",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"25-09-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 1",
+        "AwayTeam":"Portland Timbers"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Sporting KC",
+        "Score":"0 - 2",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"7 - 0",
+        "AwayTeam":"Philadelphia Union"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 2",
+        "AwayTeam":"St. Louis City"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 1",
+        "AwayTeam":"Houston Dynamo"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"SJ Earthquakes",
+        "Score":"2 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 0",
+        "AwayTeam":"Sporting KC"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"San Diego",
+        "Score":"1 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Houston Dynamo",
+        "Score":"0 - 3",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Colorado Rapids",
+        "Score":"3 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"LA Galaxy",
+        "Score":"3 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"30-06-2025",
+        "HomeTeam":"Los Angeles FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 5",
+        "AwayTeam":"San Diego"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Columbus Crew",
+        "Score":"2 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"09-06-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"3 - 0",
+        "AwayTeam":"Seattle Sounders FC"
+    },
+    {
+        "Date":"29-05-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"0 - 0",
+        "AwayTeam":"Minnesota United"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Real Salt Lake",
+        "Score":"2 - 3",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Austin",
+        "Score":"0 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 2",
+        "AwayTeam":"Los Angeles FC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 1",
+        "AwayTeam":"Real Salt Lake"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Minnesota United",
+        "Score":"1 - 3",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"St. Louis City",
+        "Score":"0 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"5 - 1",
+        "AwayTeam":"Austin"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 0",
+        "AwayTeam":"Colorado Rapids"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Toronto",
+        "Score":"0 - 0",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"23-03-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"1 - 3",
+        "AwayTeam":"Chicago Fire"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Dallas",
+        "Score":"0 - 1",
+        "AwayTeam":"Vancouver Whitecaps"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 0",
+        "AwayTeam":"CF Montréal"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Vancouver Whitecaps",
+        "Score":"2 - 1",
+        "AwayTeam":"LA Galaxy"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Portland Timbers",
+        "Score":"1 - 4",
+        "AwayTeam":"Vancouver Whitecaps"
+    }
+]

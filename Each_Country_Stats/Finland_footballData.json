@@ -1,0 +1,2066 @@
+[
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"2 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"HJK",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"2 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Ilves",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"0 - 3",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"0 - 0",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Ilves",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 2",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"HJK",
+        "Score":"1 - 4",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"4 - 1",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"KTP",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"0 - 0",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"5 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"1 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"SJK",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"1 - 1",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Oulu",
+        "Score":"1 - 4",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 0",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"1 - 3",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"2 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"3 - 4",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"HJK",
+        "Score":"2 - 3",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 4",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"1 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"3 - 2",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 0",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 5",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 0",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"07-07-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 0",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"01-07-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"6 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 0",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 2",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 3",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 0",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"1 - 2",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"HJK",
+        "Score":"0 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 0",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Haka",
+        "Score":"3 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 1",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"HJK",
+        "Score":"1 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 4",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 1",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"HJK",
+        "Score":"2 - 3",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"HJK",
+        "Score":"2 - 2",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"0 - 0",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 3",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"HJK",
+        "Score":"8 - 2",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Haka",
+        "Score":"1 - 2",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"HJK",
+        "Score":"5 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"HJK",
+        "Score":"1 - 4",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"28-07-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 2",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"HJK",
+        "Score":"2 - 3",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"HJK",
+        "Score":"4 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 0",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"HJK",
+        "Score":"0 - 0",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"0 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"HJK",
+        "Score":"4 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"HJK",
+        "Score":"4 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 3",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"1 - 1",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"22-04-2025",
+        "HomeTeam":"HJK",
+        "Score":"0 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"SJK",
+        "Score":"1 - 0",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Haka",
+        "Score":"1 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 0",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Oulu",
+        "Score":"3 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 3",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Haka",
+        "Score":"1 - 2",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 3",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 0",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 4",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"1 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 0",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Haka",
+        "Score":"1 - 3",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Haka",
+        "Score":"3 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 1",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"1 - 3",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Ilves",
+        "Score":"1 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Ilves",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"HJK",
+        "Score":"2 - 2",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"2 - 4",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Ilves",
+        "Score":"1 - 0",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 4",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"HJK",
+        "Score":"5 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"SJK",
+        "Score":"1 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 4",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 3",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"0 - 3",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 2",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Ilves",
+        "Score":"0 - 0",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"21-05-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 0",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"09-05-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 0",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"3 - 2",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 5",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 3",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"03-10-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 3",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 2",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"1 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 3",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 4",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"HJK",
+        "Score":"2 - 3",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"KTP",
+        "Score":"3 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 0",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 3",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 3",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 0",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"0 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Haka",
+        "Score":"1 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"VPS",
+        "Score":"2 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"VPS",
+        "Score":"3 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"3 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 2",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 3",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"18-07-2025",
+        "HomeTeam":"KTP",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Oulu",
+        "Score":"3 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"07-07-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 0",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"KTP",
+        "Score":"3 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"5 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"KTP",
+        "Score":"2 - 2",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 0",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"HJK",
+        "Score":"4 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 3",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 3",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 5",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"KTP",
+        "Score":"2 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 1",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"SJK",
+        "Score":"0 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 1",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Ilves",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"0 - 3",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 4",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"2 - 4",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"SJK",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 3",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 2",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"04-07-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 2",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"01-07-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"6 - 2",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"27-06-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 0",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 0",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"0 - 3",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"HJK",
+        "Score":"0 - 0",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"0 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"21-05-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 0",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Haka",
+        "Score":"1 - 3",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 0",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"1 - 2",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"4 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 0",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 0",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 0",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 3",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"HJK",
+        "Score":"8 - 2",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"3 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 5",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"0 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"21-07-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 1",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"0 - 0",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"SJK",
+        "Score":"4 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"HJK",
+        "Score":"4 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 0",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 5",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"KTP",
+        "Score":"2 - 2",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"0 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 0",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"3 - 2",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"4 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"0 - 2",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 0",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 0",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"19-09-2025",
+        "HomeTeam":"Haka",
+        "Score":"0 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Jaro",
+        "Score":"1 - 2",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Oulu",
+        "Score":"3 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"3 - 2",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 4",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"08-08-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"3 - 2",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"0 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Oulu",
+        "Score":"3 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"04-07-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 2",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 4",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Ilves",
+        "Score":"0 - 0",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Oulu",
+        "Score":"0 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 3",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"KTP",
+        "Score":"1 - 3",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Oulu",
+        "Score":"1 - 4",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 0",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"VPS",
+        "Score":"4 - 3",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"30-10-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"2 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"27-10-2025",
+        "HomeTeam":"SJK",
+        "Score":"0 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 4",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"3 - 4",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"23-09-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"3 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 3",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"SJK",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 3",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Jaro",
+        "Score":"0 - 4",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 0",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"4 - 1",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"SJK",
+        "Score":"1 - 1",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"SJK",
+        "Score":"4 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"Ilves",
+        "Score":"2 - 3",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"SJK",
+        "Score":"0 - 1",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"HJK",
+        "Score":"4 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"16-05-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"2 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 3",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"1 - 0",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"28-04-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"23-04-2025",
+        "HomeTeam":"SJK",
+        "Score":"3 - 1",
+        "AwayTeam":"Oulu"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"SJK",
+        "Score":"1 - 0",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"KTP",
+        "Score":"0 - 1",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 3",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 0",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"26-09-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 0",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"VPS",
+        "Score":"2 - 1",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"FC Inter Turku",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"22-08-2025",
+        "HomeTeam":"VPS",
+        "Score":"3 - 2",
+        "AwayTeam":"KTP"
+    },
+    {
+        "Date":"15-08-2025",
+        "HomeTeam":"Gnistan",
+        "Score":"0 - 0",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 2",
+        "AwayTeam":"SJK"
+    },
+    {
+        "Date":"01-08-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 1",
+        "AwayTeam":"Mariehamn"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Jaro",
+        "Score":"2 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 1",
+        "AwayTeam":"KuPS Kuopio"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Ilves",
+        "Score":"3 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 2",
+        "AwayTeam":"HJK"
+    },
+    {
+        "Date":"02-07-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 2",
+        "AwayTeam":"Haka"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Oulu",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"18-06-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 0",
+        "AwayTeam":"Gnistan"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Mariehamn",
+        "Score":"1 - 5",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Haka",
+        "Score":"2 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"KuPS Kuopio",
+        "Score":"0 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 0",
+        "AwayTeam":"Jaro"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"SJK",
+        "Score":"2 - 3",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"02-05-2025",
+        "HomeTeam":"VPS",
+        "Score":"1 - 0",
+        "AwayTeam":"Ilves"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"HJK",
+        "Score":"3 - 1",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"VPS",
+        "Score":"0 - 2",
+        "AwayTeam":"FC Inter Turku"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"KTP",
+        "Score":"2 - 2",
+        "AwayTeam":"VPS"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"VPS",
+        "Score":"4 - 3",
+        "AwayTeam":"Oulu"
+    }
+]

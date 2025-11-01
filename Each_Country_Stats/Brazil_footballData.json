@@ -1,0 +1,3566 @@
+[
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"08-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"3 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"0 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 3",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"2 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"0 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"3 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Santos",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"2 - 2",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"0 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 2",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 3",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"3 - 3",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"4 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 3",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 5",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 1",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 2",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"04-06-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"3 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 1",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"0 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"4 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"0 - 3",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 0",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"5 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"4 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"4 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 0",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 3",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"3 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 0",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"2 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 2",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"0 - 3",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 2",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 2",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"2 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 2",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Ceará",
+        "Score":"3 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 0",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"2 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 1",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"04-06-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"3 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Ceará",
+        "Score":"2 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 1",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Ceará",
+        "Score":"2 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Ceará",
+        "Score":"2 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"31-03-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"2 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Santos",
+        "Score":"3 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"3 - 0",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 3",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 2",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 2",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"0 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"0 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"4 - 2",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"4 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"2 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"0 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"2 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"3 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"4 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"0 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"4 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"0 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 4",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"3 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"3 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"4 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"3 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"15-09-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"5 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 2",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"3 - 3",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"3 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"0 - 3",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 1",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"21-04-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"3 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Santos",
+        "Score":"2 - 2",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"3 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 3",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"8 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 3",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"2 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 1",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"2 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"5 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"0 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"4 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"6 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"29-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"09-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"3 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"4 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"3 - 3",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"3 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"0 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"0 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"3 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"0 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"2 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 2",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 2",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"4 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"2 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 5",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"29-07-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"3 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"2 - 3",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"5 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 2",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"3 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"5 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"2 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"3 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"4 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"2 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"3 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 3",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 3",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"29-07-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"1 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"4 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 2",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"4 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Ceará",
+        "Score":"2 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"2 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"22-10-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 3",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"4 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 3",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 3",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 2",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"2 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"0 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"4 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"4 - 2",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"3 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"0 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 0",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"3 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"3 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 0",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"4 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 2",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"0 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 3",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 2",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Santos",
+        "Score":"3 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"3 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 1",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"4 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 2",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"26-05-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Juventude",
+        "Score":"1 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"5 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"3 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"6 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"09-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"3 - 0",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 0",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"17-09-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"3 - 3",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"5 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"18-08-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"2 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 2",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Ceará",
+        "Score":"0 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"1 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"05-05-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 0",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"2 - 2",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"4 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"2 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"08-10-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"3 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 2",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 3",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"3 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"0 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 2",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 1",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"14-07-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Ceará",
+        "Score":"2 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 4",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"2 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Recife",
+        "Score":"0 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"3 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"3 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"15-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"5 - 1",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"11-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"4 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 3",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"3 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"1 - 0",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"4 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"4 - 1",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"25-08-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"3 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"2 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"1 - 0",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"23-07-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"3 - 2",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"1 - 1",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"2 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"1 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"0 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"2 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Recife",
+        "Score":"1 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"0 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Santos",
+        "Score":"3 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Ceará",
+        "Score":"3 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"1 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 6",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"04-08-2025",
+        "HomeTeam":"Santos",
+        "Score":"3 - 1",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 2",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 2",
+        "AwayTeam":"Internacional RS"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"16-07-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"2 - 3",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 1",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"12-05-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 2",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Santos",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Santos",
+        "Score":"2 - 2",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"2 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 3",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"29-09-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 1",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Santos",
+        "Score":"1 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"1 - 0",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"3 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Juventude",
+        "Score":"0 - 1",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"2 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"2 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"1 - 3",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 1",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 2",
+        "AwayTeam":"Mirassol"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"1 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 1",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"2 - 2",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"1 - 1",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"0 - 0",
+        "AwayTeam":"São Paulo"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"0 - 0",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Bragantino",
+        "Score":"0 - 3",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"20-10-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 0",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"16-10-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"0 - 2",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"4 - 3",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"01-10-2025",
+        "HomeTeam":"SE Palmeiras",
+        "Score":"3 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"24-09-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"3 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"1 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 2",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Recife",
+        "Score":"2 - 3",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 3",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"20-08-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 6",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"1 - 1",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"3 - 2",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 2",
+        "AwayTeam":"Botafogo FR"
+    },
+    {
+        "Date":"13-06-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"1 - 3",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 2",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"3 - 0",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 1",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Cruzeiro",
+        "Score":"1 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"0 - 0",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Ceará",
+        "Score":"2 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"3 - 1",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"3 - 0",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"2 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 1",
+        "AwayTeam":"Corinthians"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"Santos",
+        "Score":"0 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 1",
+        "AwayTeam":"EC Bahia"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Vasco da Gama",
+        "Score":"4 - 3",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"02-10-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 0",
+        "AwayTeam":"Ceará"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Grêmio",
+        "Score":"3 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 1",
+        "AwayTeam":"Fluminense FC"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Fortaleza",
+        "Score":"2 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 0",
+        "AwayTeam":"Atlético Mineiro"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Flamengo RJ",
+        "Score":"8 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 2",
+        "AwayTeam":"Juventude"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"São Paulo",
+        "Score":"2 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 2",
+        "AwayTeam":"SE Palmeiras"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Mirassol",
+        "Score":"1 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"24-07-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 2",
+        "AwayTeam":"Recife"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 0",
+        "AwayTeam":"Bragantino"
+    },
+    {
+        "Date":"17-07-2025",
+        "HomeTeam":"Botafogo FR",
+        "Score":"0 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Internacional RS",
+        "Score":"1 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"12-06-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 0",
+        "AwayTeam":"Cruzeiro"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Corinthians",
+        "Score":"0 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Vitória",
+        "Score":"0 - 1",
+        "AwayTeam":"Santos"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"EC Bahia",
+        "Score":"2 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 1",
+        "AwayTeam":"Vasco da Gama"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Ceará",
+        "Score":"1 - 0",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 1",
+        "AwayTeam":"Grêmio"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Fluminense FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"17-04-2025",
+        "HomeTeam":"Vitória",
+        "Score":"2 - 1",
+        "AwayTeam":"Fortaleza"
+    },
+    {
+        "Date":"13-04-2025",
+        "HomeTeam":"Atlético Mineiro",
+        "Score":"2 - 2",
+        "AwayTeam":"Vitória"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Vitória",
+        "Score":"1 - 2",
+        "AwayTeam":"Flamengo RJ"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Juventude",
+        "Score":"2 - 0",
+        "AwayTeam":"Vitória"
+    }
+]

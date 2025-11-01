@@ -1,0 +1,3134 @@
+[
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Aucas",
+        "Score":"0 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Macará",
+        "Score":"3 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Aucas",
+        "Score":"0 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 2",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Libertad",
+        "Score":"3 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 0",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"6 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"15-07-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 4",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"01-07-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 3",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 0",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Delfin",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 2",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Aucas",
+        "Score":"4 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 0",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 4",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 3",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 2",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"3 - 3",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"0 - 5",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 2",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 0",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 2",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Orense",
+        "Score":"3 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"18-03-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 4",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 4",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 3",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 4",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Delfin",
+        "Score":"2 - 2",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"0 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"02-09-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Orense",
+        "Score":"3 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Delfin",
+        "Score":"3 - 3",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 4",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Delfin",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Emelec",
+        "Score":"2 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Delfin",
+        "Score":"3 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Delfin",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Delfin",
+        "Score":"1 - 0",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Libertad",
+        "Score":"0 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"3 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"5 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Delfin",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Delfin",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Emelec",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Manta",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 3",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"4 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"3 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"4 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 2",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"21-10-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Delfin",
+        "Score":"2 - 2",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 5",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Emelec",
+        "Score":"4 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 2",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 2",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 2",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"15-07-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 3",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"4 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"13-05-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 2",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"3 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Manta",
+        "Score":"4 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Aucas",
+        "Score":"0 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"04-10-2025",
+        "HomeTeam":"Emelec",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Orense",
+        "Score":"0 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Emelec",
+        "Score":"4 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 4",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 2",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"11-08-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 2",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 4",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Emelec",
+        "Score":"2 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Emelec",
+        "Score":"2 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 2",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Delfin",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 4",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"0 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"3 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"4 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 1",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Manta",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Delfin",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 2",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"4 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"28-03-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 4",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 0",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 2",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 3",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 4",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Libertad",
+        "Score":"0 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"25-07-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 2",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 4",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"19-06-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 2",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 2",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"3 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 2",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"18-04-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 2",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"4 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"0 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Libertad",
+        "Score":"0 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"02-09-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Libertad",
+        "Score":"3 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 2",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 2",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 2",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Orense",
+        "Score":"0 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"3 - 3",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Libertad",
+        "Score":"4 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"03-06-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Libertad",
+        "Score":"0 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"20-05-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Libertad",
+        "Score":"0 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"06-05-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Libertad",
+        "Score":"3 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"12-04-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Libertad",
+        "Score":"4 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"0 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 4",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"25-02-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"2 - 2",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 0",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 4",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Macará",
+        "Score":"3 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 3",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 2",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Macará",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"0 - 2",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 4",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 4",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Macará",
+        "Score":"2 - 2",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Libertad",
+        "Score":"0 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"4 - 3",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"16-03-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 3",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"16-09-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Manta",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Manta",
+        "Score":"0 - 0",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"26-07-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 4",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"22-07-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Manta",
+        "Score":"4 - 2",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"06-07-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"1 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Delfin",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"24-06-2025",
+        "HomeTeam":"Manta",
+        "Score":"0 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"14-06-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 2",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"Macará",
+        "Score":"2 - 2",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 2",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Aucas",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Manta",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"3 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"08-03-2025",
+        "HomeTeam":"Manta",
+        "Score":"4 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"04-03-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 3",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"27-09-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 5",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Orense",
+        "Score":"3 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"23-08-2025",
+        "HomeTeam":"Macará",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 0",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 2",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"28-06-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"0 - 5",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Delfin",
+        "Score":"3 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 3",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"23-05-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 5",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"4 - 3",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"19-04-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"14-04-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 0",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 2",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"3 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 0",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"18-02-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"17-10-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Libertad",
+        "Score":"2 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Orense",
+        "Score":"0 - 0",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"Aucas",
+        "Score":"0 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Orense",
+        "Score":"3 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"1 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"26-08-2025",
+        "HomeTeam":"Orense",
+        "Score":"3 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"2 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"02-08-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Orense",
+        "Score":"0 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"08-07-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 2",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"24-06-2025",
+        "HomeTeam":"Manta",
+        "Score":"0 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"17-06-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Emelec",
+        "Score":"1 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 5",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"10-05-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 0",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"15-04-2025",
+        "HomeTeam":"Orense",
+        "Score":"3 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Orense",
+        "Score":"0 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Libertad",
+        "Score":"4 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"01-03-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"4 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 3",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Delfin",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"14-09-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 2",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"4 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"17-08-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"3 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"20-07-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"1 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"08-07-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 2",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 0",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"Libertad",
+        "Score":"4 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"31-05-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"3 - 2",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"25-05-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 2",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"17-05-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 2",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"27-04-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 3",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"11-04-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"30-03-2025",
+        "HomeTeam":"Macará",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"18-03-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"11-03-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"25-02-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"2 - 2",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"15-02-2025",
+        "HomeTeam":"Aucas",
+        "Score":"4 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"25-10-2025",
+        "HomeTeam":"Orense",
+        "Score":"2 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"19-10-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"05-10-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 2",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"21-09-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"2 - 4",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"31-08-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 3",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 0",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"16-08-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"09-08-2025",
+        "HomeTeam":"Orense",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"03-08-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"6 - 2",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 4",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"3 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"12-07-2025",
+        "HomeTeam":"Manta",
+        "Score":"4 - 2",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"29-06-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"0 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"26-06-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"21-06-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"0 - 3",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"01-06-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"3 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"3 - 1",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Delfin",
+        "Score":"1 - 0",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"11-05-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 2",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"03-05-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"29-04-2025",
+        "HomeTeam":"Libertad",
+        "Score":"3 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"2 - 0",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"16-04-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"06-04-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 0",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"3 - 0",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"1 - 1",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"23-02-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"1 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"Emelec",
+        "Score":"0 - 4",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"26-10-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"18-10-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"2 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"28-09-2025",
+        "HomeTeam":"Libertad",
+        "Score":"1 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"20-09-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"4 - 1",
+        "AwayTeam":"Manta"
+    },
+    {
+        "Date":"13-09-2025",
+        "HomeTeam":"Independiente del Valle",
+        "Score":"3 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"30-08-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"El Nacional"
+    },
+    {
+        "Date":"24-08-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Barcelona Guayaquil"
+    },
+    {
+        "Date":"19-08-2025",
+        "HomeTeam":"Deportivo Cuenca",
+        "Score":"2 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"10-08-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Técnico Universitario"
+    },
+    {
+        "Date":"05-08-2025",
+        "HomeTeam":"Delfin",
+        "Score":"3 - 3",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"27-07-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Orense"
+    },
+    {
+        "Date":"19-07-2025",
+        "HomeTeam":"Universidad Católica",
+        "Score":"3 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"13-07-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 1",
+        "AwayTeam":"Mushuc Runa"
+    },
+    {
+        "Date":"05-07-2025",
+        "HomeTeam":"Emelec",
+        "Score":"2 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"01-07-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Aucas"
+    },
+    {
+        "Date":"22-06-2025",
+        "HomeTeam":"Macará",
+        "Score":"1 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"15-06-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 2",
+        "AwayTeam":"LDU Quito"
+    },
+    {
+        "Date":"03-06-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 0",
+        "AwayTeam":"Libertad"
+    },
+    {
+        "Date":"24-05-2025",
+        "HomeTeam":"Manta",
+        "Score":"2 - 2",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"18-05-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 3",
+        "AwayTeam":"Independiente del Valle"
+    },
+    {
+        "Date":"13-05-2025",
+        "HomeTeam":"El Nacional",
+        "Score":"2 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"04-05-2025",
+        "HomeTeam":"Barcelona Guayaquil",
+        "Score":"2 - 1",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"26-04-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"0 - 1",
+        "AwayTeam":"Deportivo Cuenca"
+    },
+    {
+        "Date":"20-04-2025",
+        "HomeTeam":"Técnico Universitario",
+        "Score":"1 - 3",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"10-04-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"5 - 0",
+        "AwayTeam":"Delfin"
+    },
+    {
+        "Date":"05-04-2025",
+        "HomeTeam":"Orense",
+        "Score":"0 - 0",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"29-03-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"3 - 2",
+        "AwayTeam":"Universidad Católica"
+    },
+    {
+        "Date":"15-03-2025",
+        "HomeTeam":"Mushuc Runa",
+        "Score":"1 - 2",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"09-03-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"2 - 1",
+        "AwayTeam":"Emelec"
+    },
+    {
+        "Date":"02-03-2025",
+        "HomeTeam":"Aucas",
+        "Score":"2 - 2",
+        "AwayTeam":"Vinotinto FC"
+    },
+    {
+        "Date":"22-02-2025",
+        "HomeTeam":"Vinotinto FC",
+        "Score":"1 - 2",
+        "AwayTeam":"Macará"
+    },
+    {
+        "Date":"16-02-2025",
+        "HomeTeam":"LDU Quito",
+        "Score":"0 - 0",
+        "AwayTeam":"Vinotinto FC"
+    }
+]
